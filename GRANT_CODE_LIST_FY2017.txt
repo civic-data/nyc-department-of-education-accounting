@@ -1,0 +1,24 @@
+449Other Miscellaneous Other Miscellaneous                                              
+450Self-Sustaining     Self-Sustaining Accounts                                         
+492Summer Feeding Prog Summer Feeding Program                                           
+481AIDP                Attendance Improvement/Dropout Prevention                        
+453VATEA               Vocational and Applied Technology (VATEA)                        
+458Magnet              Federal Magnet Grant                                             
+471Fed Biling/Title IIIFederal ELL Programs (Title III)                                 
+477Magnet              State Magnet Grant                                               
+480Other State         Other State Grants                                               
+485StatePre-kSuperstUPKState Pre-K/Pre-K/Universal Pre-K                                
+490Superstart Plus     Pre-K Plus                                                       
+452Title I             Title I                                                          
+479Other Federal       Other Federal Grants                                             
+451Title II            Title II                                                         
+456Legislative         State Legislative Grant                                          
+466Substance Abuse     Federal Drug Abuse Prevention Programs                           
+482EPE                 Employment Prep Education                                        
+483City Funded Pgms    City Funded Programs                                             
+460Mandated Summer     Mandated Summer Program (Ch. 683)                                
+462Private Grants      Private Grants                                                   
+469IDEA                Individuals With Disabilities Act (IDEA)                         
+495USF                 Universal Services Fund (Technology)                             
+777City Funds DS and PNCity Funds Debt Service & City contrib to pension                
+999Not Yet Designated  Not Yet Designated                                               

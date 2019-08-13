@@ -1,0 +1,54 @@
+LAYOUT FOR EXP_FY2017.TXT:   
+Field  Field Name     Type       Width    Dec    Index    Collate
+    1  LCMS_UNIT      Character      4                    
+    2  INSTR_LVL      Character      3                    
+    3  FNCT_CODE      Character      3                    
+    4  SRVC_CODE      Character      3                    
+    5  TYPE_CODE      Character      3                    
+    6  RESRC_CODE     Character      3                    
+    7  FUND_SRC       Character      1                    
+    8  STDNT_TYPE     Character      3                    
+    9  GRANT_TYPE     Character      3                    
+   13  EXP_PS_SALARY  Numeric       16      2   <---- THESE ARE THE                         
+   14  EXP_PS_FRINGE  Numeric       16      2   <---- DOLLARS YOU ARE                   
+   15  EXP_OTPS_AMT   Numeric       16      2   <---- INTERESTED IN FOR EXP '17.
+** Total **                         74
+
+LAYOUT FOR LOC_FY2017.TXT:
+Field  Field Name      Type       Width    Dec    Index    Collate
+    1  LCMS_UNIT       Character      4                    
+    2  UNIT_RESP_DIST  Character      2                    
+    3  UNIT_LONG_DESC  Character     60                    
+    4  UNIT_ADDR       Character     22                    
+    5  UNIT_TYPE       Character      2                    
+    6  UNIT_LVL        Character      3                    
+** Total **                          93
+
+LAYOUT FOR FST_FY2017.TXT:
+Field  Field Name  Type       Width    Dec    Index    Collate
+    1  FNCT_CODE   Character      3                    
+    2  SRVC_CODE   Character      3                    
+    3  TYPE_CODE   Character      3                    
+    4  FNCT_SHORT  Character     20                    
+    5  FNCT_LONG   Character     65                    
+    6  SRVC_SHORT  Character     20                    
+    7  SRVC_LONG   Character     65                    
+    8  TYPE_SHORT  Character     20                    
+    9  TYPE_LONG   Character     65                    
+** Total **                     264
+
+LAYOUT FOR ENROLL_FY2017.TXT:
+Field  Field Name  Type       Width    Dec    Index    Collate
+    1  LCMS_UNIT   Character      4              
+    2  DISTRICT    Character      2       
+    3  INSTR_LVL   Character      3       
+    4  GEN         Numeric       16       
+    6  SE          Numeric       16       
+** Total **                      41
+
+LAYOUT FOR GRANT_FY2017.TXT:
+Field  Field Name  Type       Width    Dec    Index    Collate
+    1  GRANT_TYPE  Character      3                    
+    2  GRANT_SHORT Character     20                    
+    3  GRANT_LONG  Character     65                    
+** Total **                      88

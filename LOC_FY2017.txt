@@ -1,0 +1,1678 @@
+ADULADAdult Education                                             475 NOSTRAND AVENUE   0107 
+K00115P.S. 001 The Bergen                                         309 47 STREET         0101 
+K00217Parkside Preparatory Academy                                655 PARKSIDE AVENUE   0102 
+K00313P.S. 003 The Bedford Village                                50 JEFFERSON AVENUE   0101 
+K00497P.S. K004                                                   530 STANLEY AVENUE    0105 
+K00516P.S. 005 Dr. Ronald Mcnair                                  820 HANCOCK STREET    0101 
+K00617P.S. 006                                                    43 SNYDER AVENUE      0101 
+K00719P.S. 007 Abraham Lincoln                                    858 JAMAICA AVENUE    0101 
+K00813P.S. 008 Robert Fulton                                      37 HICKS STREET       0102 
+K00913P.S. 009 Teunis G. Bergen                                   80 UNDERHILL AVENUE   0101 
+K01015Magnet School of Math, Science and Design Technology        511 7 AVENUE          0101 
+K01113P.S. 011 Purvis J. Behan                                    419 WAVERLY AVENUE    0101 
+K01217Dr. Jacqueline Peek-Davis School                            430 HOWARD AVENUE     0101 
+K01319P.S. 013 Roberto Clemente                                   557 PENNSYLVANIA AVENU0101 
+K01422J.H.S. 014 Shell Bank                                       2424 BATCHELDER STREET0102 
+K01515P.S. 015 Patrick F. Daly                                    71 SULLIVAN STREET    0101 
+K01614P.S. 016 Leonard Dunkly                                     157 WILSON STREET     0101 
+K01714P.S. 017 Henry D. Woodworth                                 208 NORTH  5 STREET   0101 
+K01814P.S. 018 Edward Bush                                        101 MAUJER STREET     0101 
+K02013P.S. 020 Clinton Hill                                       225 ADELPHI STREET    0101 
+K02116P.S. 021 Crispus Attucks                                    180 CHAUNCEY STREET   0101 
+K02314P.S. 023 Carter G. Woodson                                  545 WILLOUGHBY AVENUE 0101 
+K02415P.S. 024                                                    427 38 STREET         0101 
+K02516P.S. 025 Eubie Blake School                                 787 LAFAYETTE AVENUE  0101 
+K02616P.S. 026 Jesse Owens                                        1014 LAFAYETTE AVENUE 0101 
+K02816P.S. 028 The Warren Prep Academy                            1001 HERKIMER STREET  0101 
+K02915P.S. 029 John M. Harrigan                                   425 HENRY STREET      0101 
+K03020P.S./I.S. 30 Mary White Ovington                            7002 4TH AVENUE       0102 
+K03114P.S. 031 Samuel F. Dupont                                   75 MESEROLE AVENUE    0101 
+K03215P.S. 032 Samuel Mills Sprole                                317 HOYT STREET       0101 
+K03414P.S. 034 Oliver H. Perry                                    131 NORMAN AVENUE     0101 
+K03516M.S. 035 Stephen Decatur                                    272 MACDONOUGH STREET 0102 
+K03697P.S. 36                                                     2045 LINDEN BOULEVARD 0105 
+K03815P.S. 038 The Pacific                                        450 PACIFIC STREET    0101 
+K03915P.S. 039 Henry Bristow                                      417 6 AVENUE          0101 
+K04016P.S. 040 George W. Carver                                   265 RALPH AVENUE      0101 
+K04123P.S. 041 Francis White                                      411 THATFORD AVENUE   0102 
+K04413P.S. 044 Marcus Garvey                                      432 MONROE STREET     0101 
+K04532P.S./I.S. 045 Horace E. Greene                              84 SCHAEFER STREET    0102 
+K04613P.S. 046 Edward C. Blum                                     100 CLERMONT AVENUE   0101 
+K04820P.S. 048 Mapleton                                           6015 18 AVENUE        0101 
+K05014J.H.S. 050 John D. Wells                                    183 SOUTH  3 STREET   0102 
+K05115M.S. 51 William Alexander                                   350 5 AVENUE          0102 
+K05222P.S. 052 Sheepshead Bay                                     2675 EAST  29 STREET  0101 
+K05397P.S. K053                                                   544 7TH AVENUE        0105 
+K05413P.S. 054 Samuel C. Barnes                                   195 SANDFORD STREET   0101 
+K05613P.S. 056 Lewis H. Latimer                                   170 GATES AVENUE      0101 
+K05716J.H.S. 057 Whitelaw Reid                                    125 STUYVESANT AVENUE 0102 
+K05815P.S. 058 The Carroll                                        330 SMITH STREET      0101 
+K05914P.S. 059 William Floyd                                      211 THROOP AVENUE     0101 
+K06117M.S. 061 Dr. Gladstone H. Atwell                            400 EMPIRE BOULEVARD  0102 
+K06220J.H.S. 062 Ditmas                                           700 CORTELYOU ROAD    0102 
+K06519P.S. 065                                                    696 JAMAICA AVENUE    0101 
+K06618P.S. 66                                                     845 EAST  96 STREET   0102 
+K06713P.S. 067 Charles A. Dorsey                                  51 SAINT EDWARDS STREE0101 
+K06818I.S. 068 Isaac Bildersee                                    956 EAST  82 STREET   0102 
+K06920P.S. 69 Vincent D. Grippo School                            6302 9TH AVENUE       0101 
+K07114Juan Morel Campos Secondary School                          215 HEYWARD STREET    0104 
+K07532P.S. 075 Mayda Cortiella                                    95 GROVE STREET       0101 
+K07797P.S. K077                                                   2424 BATCHELDER STREET0105 
+K07822J.H.S. 078 Roy H. Mann                                      1420 EAST  68 STREET  0102 
+K08116P.S. 081 Thaddeus Stevens                                   990 DEKALB AVENUE     0101 
+K08414P.S. 084 Jose De Diego                                      250 BERRY STREET      0102 
+K08632P.S. 086 The Irvington                                      220 IRVING AVENUE     0101 
+K08815J.H.S. 088 Peter Rouget                                     544 7TH AVENUE        0102 
+K08919P.S. 089 Cypress Hills                                      265 WARWICK STREET    0102 
+K09021P.S. 90 Edna Cohen School                                   2840 WEST  12 STREET  0101 
+K09117P.S. 091 The Albany Avenue School                           532 ALBANY AVENUE     0101 
+K09217P.S. 092 Adrian Hegeman                                     601 PARKSIDE AVENUE   0101 
+K09313P.S. 093 William H. Prescott                                31 NEW YORK AVENUE    0101 
+K09415P.S. 094 The Henry Longfellow                               5010 6 AVENUE         0101 
+K09521P.S. 095 The Gravesend                                      345 VAN SICKLEN STREET0102 
+K09621I.S. 096 Seth Low                                           99 AVENUE P           0102 
+K09721P.S. 97 The Highlawn                                        1855 STILLWELL AVENUE 0101 
+K09821I.S. 98 Bay Academy                                         1401 EMMONS AVENUE    0102 
+K09921P.S. 099 Isaac Asimov                                       1120 EAST  10 STREET  0102 
+K10021P.S. 100 The Coney Island School                            2951 WEST  3 STREET   0101 
+K10121P.S. 101 The Verrazano                                      2360 BENSON AVENUE    0101 
+K10220P.S. 102 The Bayview                                        211 72 STREET         0101 
+K10420P.S./I.S. 104 The Fort Hamilton School                      9115 5 AVENUE         0102 
+K10520P.S. 105 The Blythebourne                                   1031 59 STREET        0101 
+K10632P.S. 106 Edward Everett Hale                                1328 PUTNAM AVENUE    0101 
+K10715P.S. 107 John W. Kimball                                    1301 8 AVENUE         0101 
+K10819P.S. 108 Sal Abbracciamento                                 200 LINWOOD STREET    0101 
+K10922P.S. 109                                                    1001 EAST  45 STREET  0102 
+K11014P.S. 110 The Monitor                                        124 MONITOR STREET    0101 
+K11220P.S. 112 Lefferts Park                                      7115 15 AVENUE        0101 
+K11313M.S. 113 Ronald Edmonds Learning Center                     300 ADELPHI STREET    0102 
+K11418P.S. 114 Ryder Elementary                                   1077 REMSEN AVENUE    0101 
+K11518P.S. 115 Daniel Mucatel School                              1500 EAST  92 STREET  0101 
+K11632P.S. 116 Elizabeth L Farrell                                515 KNICKERBOCKER AVEN0101 
+K11815The Maurice Sendak Community School                         211 8TH STREET        0101 
+K11922P.S. 119 Amersfort                                          3829 AVENUE K         0101 
+K12014P.S. 120 Carlos Tapia                                       18 BEAVER STREET      0101 
+K12121P.S. 121 Nelson A. Rockefeller                              5301 20 AVENUE        0102 
+K12217Pathways in Technology Early College High School (P-Tech)   150 ALBANY AVENUE     0104 
+K12332P.S. 123 Suydam                                             100 IRVING AVENUE     0101 
+K12415P.S. 124 Silas B. Dutcher                                   515 4 AVENUE          0101 
+K12614John Ericsson Middle School 126                             424 LEONARD STREET    0102 
+K12720P.S. 127 Mckinley Park                                      7805 7 AVENUE         0101 
+K12821P.S. 128 Bensonhurst                                        2075 84 STREET        0101 
+K13015P.S. 130 The Parkside                                       70 OCEAN PARKWAY      0101 
+K13115P.S. 131 Brooklyn                                           4305 FT HAMILTON PARKW0101 
+K13214P.S. 132 The Conselyea School                               320 MANHATTAN AVENUE  0101 
+K13313P.S. 133 William A. Butler                                  610 BALTIC STREET     0101 
+K13422P.S. K134                                                   4001 18 AVENUE        0101 
+K13518P.S. 135 Sheldon A. Brookner                                684 LINDEN BOULEVARD  0101 
+K13615I.S. 136 Charles O. Dewey                                   4004 4 AVENUE         0102 
+K13723P.S./I.S. 137 Rachel Jean Mitchell                          121 SARATOGA AVENUE   0102 
+K13817P.S. 138 Brooklyn                                           760 PROSPECT PLACE    0102 
+K13922P.S. 139 Alexine A. Fenty                                   330 RUGBY ROAD        0101 
+K14097P.S. K140                                                   141 MACON STREET      0105 
+K14197P.S. K141                                                   655 PARKSIDE AVENUE   0105 
+K14532P.S. 145 Andrew Jackson                                     100 NOLL STREET       0101 
+K14615P.S. 146                                                    610 HENRY STREET      0101 
+K14714P.S. 147 Isaac Remsen                                       325 BUSHWICK AVENUE   0101 
+K14919P.S. 149 Danny Kaye                                         700 SUTTER AVENUE     0101 
+K15023P.S. 150 Christopher                                        364 SACKMAN STREET    0101 
+K15132P.S. 151 Lyndon B. Johnson                                  763 KNICKERBOCKER AVEN0101 
+K15222School of Science & Technology                              725 EAST  23 STREET   0101 
+K15321P.S. 153 Homecrest                                          1970 HOMECREST AVENUE 0101 
+K15415The Windsor Terrace School                                  1625 11 AVENUE        0101 
+K15523P.S./ I.S. 155 Nicholas Herkimer                            1355 HERKIMER STREET  0102 
+K15623P.S. 156 Waverly                                            104 SUTTER AVENUE     0101 
+K15714P.S./I.S. 157 The Benjamin Franklin Health & Science Academy850 KENT AVENUE       0102 
+K15819P.S. 158 Warwick                                            400 ASHFORD STREET    0101 
+K15919P.S. 159 Isaac Pitkin                                       2781 PITKIN AVENUE    0101 
+K16020P.S. 160 William T. Sampson                                 5105 Fort Hamilton Par0101 
+K16117P.S. 161 The Crown                                          330 CROWN STREET      0101 
+K16232J.H.S. 162 The Willoughby                                   1390 WILLOUGHBY AVENUE0102 
+K16320P.S. 163 Bath Beach                                         109 BAY 14TH STREET   0102 
+K16420P.S. 164 Caesar Rodney                                      4211 14 AVENUE        0101 
+K16523P.S. 165 Ida Posner                                         76 LOTT AVENUE        0102 
+K16832The Brooklyn School for Math and Research                   400 IRVING AVENUE     0104 
+K16915P.S. 169 Sunset Park                                        4305 7 AVENUE         0101 
+K17020Ralph A. Fabrizio School                                    619 72ND STREET       0101 
+K17119I.S. 171 Abraham Lincoln                                    528 RIDGEWOOD AVENUE  0102 
+K17215P.S. 172 Beacon School of Excellence                        825 4 AVENUE          0101 
+K17620P.S. 176 Ovington                                           1225 69 STREET        0101 
+K17721P.S. 177 The Marlboro                                       346 AVENUE P          0101 
+K17823P.S. 178 Saint Clair Mckelway                               2163 DEAN STREET      0102 
+K17920P.S. 179 Kensington                                         202 AVENUE C          0101 
+K18020The SEEALL Academy                                          5601 16 AVENUE        0102 
+K18117P.S. 181 Brooklyn                                           1023 NEW YORK AVENUE  0102 
+K18423P.S. 184 Newport                                            273 NEWPORT STREET    0102 
+K18520P.S. 185 Walter Kassenbrock                                 8601 RIDGE BOULEVARD  0101 
+K18620P.S. 186 Dr. Irving A Gladstone                             7601 19 AVENUE        0101 
+K18720The Christa McAuliffe School\I.S. 187                       1171 65 STREET        0102 
+K18821P.S. 188 Michael E. Berdy                                   3314 NEPTUNE AVENUE   0101 
+K18917P.S. 189 The Bilingual Center                               1100 EAST NEW YORK AVE0102 
+K19019P.S. 190 Sheffield                                          590 SHEFFIELD AVENUE  0101 
+K19117P.S. 191 Paul Robeson                                       1600 PARK PLACE       0101 
+K19220P.S. 192 - The Magnet School for Math and Science           4715 18 AVENUE        0102 
+K19322P.S. 193 Gil Hodges                                         2515 AVENUE L         0101 
+K19422P.S. 194 Raoul Wallenberg                                   3117 AVENUE W         0101 
+K19522P.S. 195 Manhattan Beach                                    131 IRWIN STREET      0101 
+K19614P.S. 196 Ten Eyck                                           207 BUSHWICK AVENUE   0101 
+K19722P.S. 197 - The Kings Highway Academy                        1599 EAST  22 STREET  0101 
+K19822P.S. 198 Brooklyn                                           4105 FARRAGUT ROAD    0101 
+K19921P.S. 199 Frederick Wachtel                                  1100 ELM AVENUE       0101 
+K20020P.S. 200 Benson School                                      1940 BENSON AVENUE    0101 
+K20120J.H.S. 201 The Dyker Heights                                8010 12 AVENUE        0102 
+K20219P.S. 202 Ernest S. Jenkyns                                  982 HEGEMAN AVENUE    0101 
+K20322P.S. 203 Floyd Bennett School                               5101 AVENUE M         0101 
+K20420P.S. 204 Vince Lombardi                                     8101 15 AVENUE        0101 
+K20520P.S. 205 Clarion                                            6701 20 AVENUE        0101 
+K20622P.S. 206 Joseph F Lamb                                      2200 GRAVESEND NECK RO0102 
+K20722P.S. 207 Elizabeth G. Leary                                 4011 FILLMORE AVENUE  0102 
+K20818P.S. 208 Elsa Ebeling                                       4801 AVENUE D         0101 
+K20921P.S. 209 Margaret Mead                                      2609 EAST  7 STREET   0102 
+K21118I.S. 211 John Wilson                                        1001 EAST 100 STREET  0102 
+K21221P.S. 212 Lady Deborah Moody                                 87 BAY  49 STREET     0101 
+K21319P.S. 213 New Lots                                           580 HEGEMAN AVENUE    0101 
+K21419P.S. 214 Michael Friedsam                                   2944 PITKIN AVENUE    0101 
+K21521P.S. 215 Morris H. Weiss                                    415 AVENUE S          0101 
+K21621P.S. 216 Arturo Toscanini                                   350 AVENUE X          0101 
+K21722P.S. 217 Colonel David Marcus School                        1100 NEWKIRK AVENUE   0101 
+K21819J.H.S. 218 James P. Sinnott                                 370 FOUNTAIN AVENUE   0102 
+K21918P.S. 219 Kennedy-King                                       1060 CLARKSON AVENUE  0101 
+K22020J.H.S. 220 John J. Pershing                                 4812 9TH AVENUE       0102 
+K22117P.S. 221 Toussaint L'Ouverture                              791 EMPIRE BOULEVARD  0101 
+K22222P.S. 222 Katherine R. Snyder                                3301 QUENTIN ROAD     0101 
+K22320J.H.S. 223 The Montauk                                      4200 16 AVENUE        0102 
+K22419P.S. 224 Hale A. Woodruff                                   757 WORTMAN AVENUE    0101 
+K22521P.S. K225 - The Eileen E. Zaglin                            1075 OCEAN VIEW AVENUE0102 
+K22621P.S. 226 Alfred De B.Mason                                  6006 23 AVENUE        0102 
+K22720J.H.S. 227 Edward B. Shallow                                6500 16 AVENUE        0102 
+K22821I.S. 228 David A. Boody                                     228 AVENUE S          0102 
+K22920P.S. 229 Dyker                                              1400 BENSON AVENUE    0102 
+K23015P.S. 230 Doris L. Cohen                                     1 ALBEMARLE ROAD      0101 
+K23197P.S. K231                                                   5601 16 AVENUE        0105 
+K23318P.S. 233 Langston Hughes                                    9301 AVENUE B         0101 
+K23422J.H.S. 234 Arthur W. Cunningham                             1875 EAST  17 STREET  0102 
+K23518P.S. 235 Janice Marie Knight School                         525 LENOX ROAD        0102 
+K23622P.S. 236 Mill Basin                                         6302 AVENUE U         0101 
+K23821P.S. 238 Anne Sullivan                                      1633 EAST  8 STREET   0102 
+K23921Mark Twain I.S. 239 for the Gifted & Talented               2401 NEPTUNE AVENUE   0102 
+K24022Andries Hudde                                               2500 NOSTRAND AVENUE  0102 
+K24117P.S. 241 Emma L. Johnston                                   976 PRESIDENT STREET  0101 
+K24316P.S. 243K- The Weeksville School                            1580 DEAN STREET      0101 
+K24418P.S. 244 Richard R. Green                                   5404 TILDEN AVENUE    0101 
+K24522P.S. 245                                                    249 EAST 17TH STREET  0101 
+K24617M.S. 246 Walt Whitman                                       72 VERONICA PLACE     0102 
+K24720P.S. 247 Brooklyn                                           7000 21 AVENUE        0101 
+K24917P.S. 249 The Caton                                          18 MARLBOROUGH ROAD   0101 
+K25014P.S. 250 George H. Lindsay                                  108 MONTROSE AVENUE   0101 
+K25122P.S. 251 Paerdegat                                          1037 EAST  54 STREET  0101 
+K25321P.S. 253                                                    601 OCEANVIEW AVENUE  0101 
+K25422P.S. 254 Dag Hammarskjold                                   1801 AVENUE Y         0101 
+K25522P.S. 255 Barbara Reing School                               1866 EAST  17 STREET  0101 
+K25613P.S. 256 Benjamin Banneker                                  114 KOSCIUSZKO STREET 0101 
+K25714P.S. 257 John F. Hylan                                      60 COOK STREET        0101 
+K25920J.H.S. 259 William Mckinley                                 7305 FT HAMILTON PARKW0102 
+K26115P.S. 261 Philip Livingston                                  314 PACIFIC STREET    0101 
+K26216P.S. 262 El Hajj Malik El Shabazz Elementary School         500 MACON STREET      0102 
+K26420P.S. 264 Bay Ridge Elementary School For The Arts           371 89th Street       0101 
+K26513Dr. Susan S. McKinney Secondary School of the Arts          101 PARK AVENUE       0104 
+K26613M.S. K266 - Park Place Community Middle School              31 NEW YORK AVENUE    0102 
+K26716M.S. 267 Math, Science & Technology                         800 GATES AVENUE      0102 
+K26818P.S. 268 Emma Lazarus                                       133 EAST  53 STREET   0101 
+K26922P.S. 269 Nostrand                                           1957 NOSTRAND AVENUE  0101 
+K27013P.S. 270 Johann DeKalb                                      241 EMERSON PLACE     0101 
+K27218P.S. 272 Curtis Estabrook                                   101-24 SEAVIEW AVENUE 0101 
+K27319P.S. 273 Wortman                                            923 JEROME STREET     0101 
+K27432P.S. 274 Kosciusko                                          800 BUSHWICK AVENUE   0101 
+K27618P.S. 276 Louis Marshall                                     1070 EAST  83 STREET  0101 
+K27722P.S. 277 Gerritsen Beach                                    2529 GERRITSEN AVENUE 0101 
+K27822J.H.S. 278 Marine Park                                      1925 STUART STREET    0102 
+K27918P.S. 279 Herman Schreiber                                   1070 EAST 104 STREET  0101 
+K28121I.S. 281 Joseph B Cavallaro                                 8787 24 AVENUE        0102 
+K28213P.S. 282 Park Slope                                         180 6 AVENUE          0102 
+K28423P.S. 284 Lew Wallace                                        213 OSBORN STREET     0102 
+K28518I.S. 285 Meyer Levin                                        5909 BEVERLY ROAD     0102 
+K28713P.S. 287 Bailey K. Ashford                                  50 NAVY STREET        0101 
+K28821P.S. 288 The Shirley Tanyhill                               2950 WEST  25 STREET  0102 
+K28917P.S. 289 George V. Brower                                   900 ST MARKS AVENUE   0101 
+K29019P.S. 290 Juan Morel Campos                                  135 SCHENCK AVENUE    0101 
+K29132J.H.S. 291 Roland Hayes                                     231 PALMETTO STREET   0102 
+K29219J.H.S. 292 Margaret S. Douglas                              301 VERMONT STREET    0102 
+K29515P.S. 295                                                    330 18 STREET         0101 
+K29714P.S. 297 Abraham Stockton                                   700 PARK AVENUE       0101 
+K29823P.S. 298 Dr. Betty Shabazz                                  85 WATKINS STREET     0101 
+K29932P.S. 299 Thomas Warren Field                                88 WOODBINE STREET    0101 
+K30113Satellite East Middle School                                344 MONROE STREET     0102 
+K30321I.S. 303 Herbert S. Eisenberg                               501 WEST AVENUE       0102 
+K30513P.S. 305 Dr. Peter Ray                                      344 MONROE STREET     0101 
+K30619P.S. 306 Ethan Allen                                        970 VERMONT STREET    0102 
+K30713P.S. 307 Daniel Hale Williams                               209 YORK STREET       0101 
+K30816P.S. 308 Clara Cardwell                                     616 QUINCY STREET     0102 
+K30916P.S. 309 The George E. Wibecan Preparatory Academy          794 MONROE STREET     0101 
+K31020The School For Future Leaders                               942 62ND STREET       0101 
+K31119Essence School                                              590 SHEFFIELD AVENUE  0102 
+K31222P.S. 312 Bergen Beach                                       7103 AVENUE T         0101 
+K31313Satellite West Middle School                                19 DOCK STREET        0102 
+K31522P.S. K315                                                   2310 GLENWOOD ROAD    0101 
+K31617P.S. 316 Elijah Stroud                                      750 CLASSON AVENUE    0101 
+K31814I.S. 318 Eugenio Maria De Hostos                            101 WALTON STREET     0102 
+K31914P.S. 319                                                    360 KEAP STREET       0101 
+K32115P.S. 321 William Penn                                       180 7 AVENUE          0101 
+K32323P.S./I.S. 323                                               210 CHESTER STREET    0102 
+K32519The Fresh Creek School                                      875 WILLIAMS AVENUE   0101 
+K32622P.S. 326                                                    1800 UTICA AVENUE     0101 
+K32723P.S. 327 Dr. Rose B. English                                111 BRISTOL STREET    0102 
+K32819P.S. 328 Phyllis Wheatley                                   330 ALABAMA AVENUE    0101 
+K32921P.S. 329 Surfside                                           2929 WEST  30 STREET  0101 
+K33516P.S. 335 Granville T. Woods                                 130 ROCHESTER AVENUE  0101 
+K33721International High School at Lafayette                      2630 BENSON AVENUE    0104 
+K34017I.S. 340                                                    227 STERLING PLACE    0102 
+K34421Rachel Carson High School for Coastal Studies               521 WEST AVENUE       0104 
+K34519P.S. 345 Patrolman Robert Bolden                            111 BERRIMAN STREET   0101 
+K34619P.S. 346 Abe Stark                                          1400 PENNSYLVANIA AVEN0101 
+K34732I.S. 347 School of Humanities                               35 STARR STREET       0102 
+K34821High School of Sports Management                            2630 BENSON AVENUE    0104 
+K34932I.S. 349 Math, Science & Tech.                              35 STARR STREET       0102 
+K35013Urban Assembly High School of Music and Art                 49 FLATBUSH AVENUE EXT0104 
+K35113The Urban Assembly Unison School                            170 GATES AVENUE      0102 
+K35217Ebbets Field Middle School                                  46 MCKEEVER PLACE     0102 
+K35317Elijah Stroud Middle School                                 750 CLASSON AVENUE    0102 
+K35417The School of Integrated Learning                           1224 PARK PLACE       0102 
+K36122P.S. 361 East Flatbush Early Childhood School               3109 NEWKIRK AVENUE   0101 
+K36323Brownsville Collaborative Middle School                     85 WATKINS STREET     0102 
+K36419I.S. 364 Gateway                                            1426 FREEPORT LOOP    0102 
+K36618The Science And Medicine Middle School                      965 EAST 107TH STREET 0102 
+K36897P.S. 368                                                    70 TOMPKINS AVENUE    0105 
+K36997P.S. K369 - Coy L. Cox School                               383 STATE STREET      0105 
+K37097P.S. 370                                                    3000 WEST 1 STREET    0105 
+K37197P.S. 371 - Lillian L. Rashkis                               355 37 STREET         0105 
+K37297P.S. 372 -The Children's School                             512 CARROLL STREET    0105 
+K37397P.S. 373 - Brooklyn Transition Center                       185 ELLERY STREET     0105 
+K37517P.S. 375 Jackie Robinson School                             46 MCKEEVER PLACE     0101 
+K37632P.S. 376                                                    194 HARMAN STREET     0101 
+K37732P.S. 377 Alejandrina B. De Gautier                          200 WOODBINE STREET   0102 
+K38014P.S. 380 John Wayne Elementary                              370 MARCY AVENUE      0101 
+K38122I. S. 381                                                   1599 EAST  22 STREET  0102 
+K38217Academy for College Preparation and Career Exploration      911 FLATBUSH AVENUE   0104 
+K38332J.H.S. 383 Philippa Schuyler                                1300 GREENE AVENUE    0102 
+K38432P.S. /I.S. 384 Frances E. Carter                            242 COOPER STREET     0102 
+K39223I.S. 392                                                    104 SUTTER AVENUE     0102 
+K39316Frederick Douglass Academy IV Secondary School              125 STUYVESANT AVENUE 0104 
+K39417M.S. K394                                                   188 ROCHESTER AVENUE  0102 
+K39697P.S. K396                                                   110 CHESTER STREET    0105 
+K39717P.S. 397 Foster-Laurie                                      490 FENIMORE STREET   0101 
+K39817P.S. 398 Walter Weaver                                      60 EAST  94 STREET    0101 
+K39917P.S. 399 Stanley Eugene Clark                               2707 ALBEMARLE ROAD   0101 
+K40123Christopher Avenue Community School                         51 CHRISTOPHER AVENUE 0101 
+K40332Academy for Environmental Leadership                        400 IRVING AVENUE     0104 
+K40419Academy for Young Writers                                   1065 ELTON STREET     0104 
+K40522Midwood High School                                         2839 BEDFORD AVENUE   0104 
+K40817Academy of Hospitality and Tourism                          911 FLATBUSH AVENUE   0104 
+K40919East New York Family Academy                                2057 LINDEN BOULEVARD 0104 
+K41021Abraham Lincoln High School                                 2800 OCEAN PARKWAY    0104 
+K41121Abraham Lincoln Yabc                                        2800 OCEAN PARKWAY    0104 
+K41213Brooklyn Community HS of Communication, Arts & Media        300 WILLOUGHBY AVENUE 0104 
+K41414Brooklyn Arbor Elementary School                            325 SOUTH  3 STREET   0101 
+K41913Science Skills Center HS for Science, Tech & Creative Arts  49 FLATBUSH AVENUE EXT0104 
+K42219Spring Creek Community School                               1065 ELTON STREET     0104 
+K42315Brooklyn Frontiers High School                              112 SCHERMERHORN STREE0104 
+K42522James Madison High School                                   3787 BEDFORD AVENUE   0104 
+K42915Brooklyn School for Global Studies                          284 BALTIC STREET     0104 
+K43013Brooklyn Technical High School                              29 FT GREENE PLACE    0104 
+K43119Thomas Jefferson Yabc                                       400 PENNSYLVANIA AVENU0104 
+K43913Brooklyn International High School                          49 FLATBUSH AVENUE EXT0104 
+K44215M.S. 442 Carroll Gardens School for Innovation              317 HOYT STREET       0102 
+K44315New Voices School of Academic & Creative Arts               330 18 STREET         0102 
+K44520New Utrecht High School                                     1601 80 STREET        0104 
+K44623Riverdale Avenue Community School                           76 RIVERDALE AVENUE   0101 
+K44715The Math & Science Exploratory School                       345 DEAN STREET       0102 
+K44815Brooklyn Secondary School for Collaborative  Studies        610 HENRY STREET      0104 
+K44914Brooklyn Latin School, The                                  223 GRAHAM AVENUE     0104 
+K45219Frederick Douglass Academy VIII Middle School               1400 PENNSYLVANIA AVEN0102 
+K45414Green School: An Academy for Environmental Careers          223 GRAHAM AVENUE     0104 
+K45516Boys and Girls High School                                  1700 FULTON STREET    0104 
+K46215Secondary School for Law                                    237 7 AVENUE          0104 
+K46315Secondary School for Journalism                             237 7 AVENUE          0104 
+K46415Park Slope Collegiate                                       237 7 AVENUE          0104 
+K46717Erasmus Yabc                                                911 FLATBUSH AVENUE   0104 
+K46821Kingsborough Early College School                           2630 BENSON AVENUE    0104 
+K47414PROGRESS High School for Professional Careers               850 GRAND STREET      0104 
+K47714School for Legal Studies                                    850 GRAND STREET      0104 
+K47814The High School for Enterprise, Business and Technology     850 GRAND STREET      0104 
+K48313The Urban Assembly School for Law and Justice               283 ADAMS STREET      0104 
+K48417Ronald Edmonds Learning Center II                           430 HOWARD AVENUE     0102 
+K48520High School of  Telecommunication Arts and Technology       350 67 STREET         0104 
+K48814Brooklyn Preparatory High School                            257 NORTH  6 STREET   0104 
+K48917W.E.B. Dubois Academic High School                          402 EASTERN PARKWAY   0104 
+K49020Fort Hamilton High School                                   8301 SHORE ROAD       0104 
+K49213Academy of Arts and Letters                                 225 ADELPHI STREET    0102 
+K49323Brooklyn Collegiate: A College Board School                 2021 BERGEN STREET    0104 
+K49715School for International Studies                            284 BALTIC STREET     0104 
+K49816Brooklyn High School for Law and Technology                 1396 BROADWAY         0104 
+K49913ACORN Community High School                                 561 GRAND AVENUE      0104 
+K50119Franklin K. Lane Campus YABC                                999 JAMAICA AVENUE    0104 
+K50219FDNY - Captain Vernon A. Richards HS for Fire & Life Safety 400 PENNSYLVANIA AVENU0104 
+K50320P.S. 503: The School of Discovery                           330 59 STREET         0101 
+K50419High School for Civil Rights                                400 PENNSYLVANIA AVENU0104 
+K50520Franklin Delano Roosevelt High School                       5800 20 AVENUE        0104 
+K50620P.S. 506: The School of Journalism & Technology             330 59 STREET         0101 
+K50719Performing Arts and Technology High School                  400 PENNSYLVANIA AVENU0104 
+K51019World Academy for Total Community Health High School        400 PENNSYLVANIA AVENU0104 
+K51423Frederick Douglass Academy VII High School                  226 BRISTOL STREET    0104 
+K51615Sunset Park Avenues Elementary School                       4222 4TH AVENUE       0101 
+K51823Kappa V (Knowledge and Power Preparatory Academy)           985 ROCKAWAY AVENUE   0102 
+K51915Cobble Hill School of American Studies                      347 BALTIC STREET     0104 
+K52223Mott Hall IV                                                1137 HERKIMER STREET  0102 
+K52417International High School at Prospect Heights               883 CLASSON AVENUE    0104 
+K52521Edward R. Murrow High School                                1600 AVENUE L         0104 
+K52713Urban Assembly Institute of Math and Science for Young Women283 ADAMS STREET      0104 
+K52817The High School for Global Citizenship                      883 CLASSON AVENUE    0104 
+K52915West Brooklyn Community High School                         1053 41ST STREET      0104 
+K53117School for Human Rights, The                                600 KINGSTON AVENUE   0104 
+K53217New Bridges Elementary                                      1025 EASTERN PARKWAY  0101 
+K53317School for Democracy and Leadership                         600 KINGSTON AVENUE   0104 
+K53522Leon M. Goldstein High School for the Sciences              1830 SHORE BOULEVARD  0104 
+K53717High School for Youth and Community Development at Erasmus  911 FLATBUSH AVENUE   0104 
+K53917High School for Service & Learning at Erasmus               911 FLATBUSH AVENUE   0104 
+K54021John Dewey High School                                      50 AVENUE X           0104 
+K54317Science, Technology and Research Early College High School  911 FLATBUSH AVENUE   0104 
+K54532EBC High School for Public Service - Bushwick               1155 DEKALB AVENUE    0104 
+K54617High School for Public Service: Heroes of Tomorrow          600 KINGSTON AVENUE   0104 
+K54717Brooklyn Academy of Science and the Environment             883 CLASSON AVENUE    0104 
+K54817Brooklyn School for Music & Theatre                         883 CLASSON AVENUE    0104 
+K54932Bushwick School for Social Justice                          400 IRVING AVENUE     0104 
+K55232Academy of Urban Planning                                   400 IRVING AVENUE     0104 
+K55313Brooklyn Academy High School                                832 MARCY AVENUE      0104 
+K55432All City Leadership Secondary School                        321 PALMETTO STREET   0104 
+K55522Brooklyn College Academy                                    350 CONEY ISLAND AVENU0104 
+K55632Bushwick Leaders High School for Academic Excellence        797 BUSHWICK AVENUE   0104 
+K55719Brooklyn Gardens Elementary School                          574 DUMONT AVENUE     0101 
+K55814Williamsburg High School for Architecture and Design        257 NORTH  6 STREET   0104 
+K55921Life Academy High School for Film and Music                 2630 BENSON AVENUE    0104 
+K56114Williamsburg Preparatory School                             257 NORTH  6 STREET   0104 
+K56232Evergreen Middle School for Urban Exploration               125 COVERT STREET     0102 
+K56318It Takes a Village Academy                                  5800 TILDEN AVENUE    0104 
+K56432Bushwick Community High School                              231 PALMETTO STREET   0104 
+K56618Brooklyn Generation School                                  6565 FLATLANDS AVENUE 0104 
+K56718Brooklyn Theatre Arts High School                           6565 FLATLANDS AVENUE 0104 
+K56817Brownsville Academy High School                             1150 EAST NEW YORK AVE0104 
+K56918Kurt Hahn Expeditionary Learning School                     5800 TILDEN AVENUE    0104 
+K57221Expeditionary Learning School for Community Leader          2630 BENSON AVENUE    0104 
+K57513Bedford Stuyvesant Preparatory High School                  832 MARCY AVENUE      0104 
+K57618Victory Collegiate High School                              6565 FLATLANDS AVENUE 0104 
+K57714Conselyea Preparatory School                                208 NORTH  5 STREET   0102 
+K57818Brooklyn Bridge Academy                                     6565 FLATLANDS AVENUE 0104 
+K58118East Flatbush Community Research School                     905 WINTHROP STREET   0102 
+K58214M.S. 582                                                    207 BUSHWICK AVENUE   0102 
+K58319Multicultural High School                                   999 JAMAICA AVENUE    0104 
+K58416M.S. 584                                                    130 ROCHESTER AVENUE  0102 
+K58614Lyons Community School                                      223 GRAHAM AVENUE     0104 
+K58818Middle School for Art and Philosophy                        1084 LENOX ROAD       0102 
+K58918Arts & Media Preparatory Academy                            905 WINTHROP STREET   0104 
+K59017Medgar Evers College Preparatory School                     1186 CARROLL STREET   0104 
+K59215Khalil Gibran International Academy                         362 SCHERMERHORN STREE0104 
+K59416Gotham Professional Arts Academy                            265 RALPH AVENUE      0104 
+K59513Bedford Academy High School                                 1119 BEDFORD AVENUE   0104 
+K59818Middle School of Marketing and Legal Studies                905 WINTHROP STREET   0102 
+K59923Brooklyn Landmark Elementary School                         251 MAC DOUGAL STREET 0101 
+K60017Clara Barton High School                                    901 CLASSON AVENUE    0104 
+K60513George Westinghouse Career and Technical Education          105 TECH PLACE        0104 
+K60920Urban Assembly School for Criminal Justice                  4200 16 AVENUE        0104 
+K61014Automotive High School                                      50 BEDFORD AVENUE     0104 
+K61122Origins High School                                         3000 AVENUE X         0104 
+K61414Young Women's Leadership School of Brooklyn                 325 BUSHWICK AVENUE   0104 
+K61519Transit Tech Career and Technical Education High School     1 WELLS STREET        0104 
+K61613Brooklyn High School for Leadership and Community           300 WILLOUGHBY AVENUE 0104 
+K61718High School for Innovation in Advertising and Media         1600 ROCKAWAY PARKWAY 0104 
+K61819Academy of Innovative Technology                            999 JAMAICA AVENUE    0104 
+K62021William E. Grady Career and Technical Education High School 25 BRIGHTON  4TH ROAD 0104 
+K62716Brighter Choice Community School                            280 HART STREET       0101 
+K62816Brooklyn Brownstone School                                  272 MACDONOUGH STREET 0101 
+K62918Cultural Academy for the Arts and Sciences                  5800 TILDEN AVENUE    0104 
+K63022Professional Pathways High School                           3000 AVENUE X         0104 
+K63214Frances Perkins Academy                                     50 BEDFORD AVENUE     0104 
+K63318High School for Medical Professions                         1600 ROCKAWAY PARKWAY 0104 
+K63518Olympus Academy                                             755 EAST  100 STREET  0104 
+K63718Academy for Conservation and the Environment                6565 FLATLANDS AVENUE 0104 
+K63919Brooklyn Lab School                                         999 JAMAICA AVENUE    0104 
+K64218Urban Action Academy                                        1600 ROCKAWAY PARKWAY 0104 
+K64323Brooklyn Democracy Academy                                  985 ROCKAWAY AVENUE   0104 
+K64423Eagle Academy for Young Men II                              1137 HERKIMER STREET  0104 
+K64623Aspirations Diploma Plus High School                        1495 HERKIMER STREET  0104 
+K64723Metropolitan Diploma Plus High School                       985 ROCKAWAY AVENUE   0104 
+K65419Van Siclen Community Middle School                          800 VAN SICLEN AVE    0102 
+K65615Brooklyn High School of the Arts                            345 DEAN STREET       0104 
+K65713Downtown Brooklyn Yabc                                      105 TECH PLACE        0104 
+K65820Franklin Delano Roosevelt YABC                              5800 20 AVENUE        0104 
+K65919Cypress Hills Collegiate Preparatory School                 999 JAMAICA AVENUE    0104 
+K66019W. H. Maxwell Career and Technical Education High           145 PENNSYLVANIA AVENU0104 
+K66119Vista Academy                                               350 LINWOOD STREET    0102 
+K66219Liberty Avenue Middle School                                350 LINWOOD STREET    0102 
+K66319School of the Future Brooklyn                               574 DUMONT AVENUE     0102 
+K66423Brooklyn Environmental Exploration School (BEES)            251 MAC DOUGAL STREET 0102 
+K66715Sunset Park High School                                     153 35TH STREET       0104 
+K66823Riverdale Avenue Middle School                              76 RIVERDALE AVENUE   0102 
+K66916Research and Service High School                            1700 FULTON STREET    0104 
+K67013Benjamin Banneker Academy                                   71-77 CLINTON AVENUE  0104 
+K67123Mott Hall Bridges Academy                                   210 CHESTER STREET    0102 
+K67318East Brooklyn Community High School                         9517 KINGS HIGHWAY    0104 
+K67413City Polytechnic High School of Engineering, Architecture   105 TECH PLACE        0104 
+K67615Red Hook Neighborhood School                                27 HUNTINGTON STREET  0101 
+K67719East New York Elementary School of Excellence               605 SHEPHERD AVENUE   0101 
+K67819East New York Middle School of Excellence                   605 SHEPHERD AVENUE   0102 
+K68116Madiba Prep Middle School                                   1014 LAFAYETTE AVENUE 0102 
+K68220The Academy of Talented Scholars                            50 AVENUE P           0101 
+K68319The School For Classics: An Academy Of Thinkers, Writers    370 FOUNTAIN AVENUE   0104 
+K68415Millennium Brooklyn HS                                      237 7 AVENUE          0104 
+K68514El Puente Academy for Peace and Justice                     250 HOOPER STREET     0104 
+K68620Brooklyn School of Inquiry                                  50 AVENUE P           0102 
+K68816The Brooklyn Academy of Global Finance                      125 STUYVESANT AVENUE 0104 
+K69021Brooklyn Studio Secondary School                            8310 21ST AVENUE      0104 
+K69113Fort Greene Preparatory Academy                             100 CLERMONT AVENUE   0102 
+K69723Teachers Preparatory High School                            226 BRISTOL STREET    0104 
+K69815South Brooklyn Community High School                        173 CONOVER STREET    0104 
+K70517Brooklyn Arts and Science Elementary School                 443 ST MARKS AVENUE   0101 
+K71313NYCEEC NYC Early Childhood Center 13                        DISTRICT 13           9903 
+K71414NYCEEC NYC Early Childhood Center 14                        DISTRICT 14           9903 
+K71515NYCEEC NYC Early Childhood Center 15                        DISTRICT 15           9903 
+K71616NYCEEC NYC Early Childhood Center 16                        DISTRICT 16           9903 
+K71717NYCEEC NYC Early Childhood Center 17                        DISTRICT 17           9903 
+K71818NYCEEC NYC Early Childhood Center 18                        DISTRICT 18           9903 
+K71919NYCEEC NYC Early Childhood Center 19                        DISTRICT 19           9903 
+K72020NYCEEC NYC Early Childhood Center 20                        DISTRICT 20           9903 
+K72197P.S. K721 - Brooklyn Occupational Training Center           64 AVENUE X           0105 
+K72217New Heights Middle School                                   790 EAST NEW YORK AVEN0102 
+K72821Liberation Diploma Plus                                     2865 WEST 19TH STREET 0104 
+K72A21NYCEEC NYC Early Childhood Center 21                        DISTRICT 21           9903 
+K72B22NYCEEC NYC Early Childhood Center 22                        DISTRICT 22           9903 
+K72C23NYCEEC NYC Early Childhood Center 23                        DISTRICT 23           9903 
+K73232NYCEEC NYC Early Childhood Center 32                        DISTRICT 32           9903 
+K74517Brooklyn Institute for Liberal Arts                         600 KINGSTON AVENUE   0104 
+K74820P.S. 748 Brooklyn School for Global Scholars                1664 BENSON AVENUE    0101 
+K75117Academy for Health Careers                                  150 ALBANY AVENUE     0104 
+K75397P.S. K753 - School for Career Development                   510 CLERMONT AVENUE   0105 
+K76019Highland Park Community School                              528 RIDGEWOOD AVENUE  0102 
+K76318Brooklyn Science and Engineering Academy                    5404 TILDEN AVENUE    0102 
+K76419The Urban Assembly School for Collaborative Health          999 JAMAICA AVENUE    0104 
+K76516Nelson Mandela High School                                  1700 FULTON STREET    0104 
+K77017P.S. 770 New American Academy                               60 EAST  94 STREET    0101 
+K77197P.S. K771                                                   1075 OCEAN VIEW AVENUE0105 
+K81197P.S. K811 Connie Lekas School                               2525 HARING STREET    0105 
+K82115Sunset Park Prep                                            4004 4 AVENUE         0102 
+K83915M.S. 839                                                    713 CATON AVENUE      0102 
+K92218South Shore Educational Complex Yabc                        6565 FLATLANDS AVENUE 0104 
+K92314Automotive High School Yabc                                 50 BEDFORD AVENUE     0104 
+K95916BOYS AND GIRLS YABC                                         1700 FULTON STREET    0104 
+K97120School of Math, Science, and Healthy Living                 6214 4TH AVENUE       0101 
+KP1313District 13 Pre-K Center                                    19 DOCK STREET        0101 
+KP1515District 15 Pre-K Center (Little Brooklyn and Bishop Ford)  173-177 25TH STREET   0101 
+KP2020District 20 Pre-K Center                                    8501 5TH AVENUE       0101 
+KP2121District 21 Pre-K Center                                    2202 60th Street      0101 
+KP2222District 22 Pre-K Center                                    1139 CONEY ISLAND AVEN0101 
+M00102P.S. 001 Alfred E. Smith                                    8 HENRY STREET        0101 
+M00202P.S. 002 Meyer London                                       122 HENRY STREET      0101 
+M00302P.S. 003 Charrette School                                   490 HUDSON STREET     0101 
+M00406P.S. 004 Duke Ellington                                     500 WEST 160 STREET   0101 
+M00506P.S. 005 Ellen Lurie                                        3703 TENTH AVENUE     0101 
+M00602P.S. 006 Lillie D. Blake                                    45 EAST  81 STREET    0101 
+M00704P.S. 007 Samuel Stern                                       160 EAST 120 STREET   0102 
+M00806P.S. 008 Luis Belliard                                      465 WEST 167 STREET   0101 
+M00903P.S. 009 Sarah Anderson                                     100 WEST  84 STREET   0101 
+M01102P.S. 011 William T. Harris                                  320 WEST  21 STREET   0101 
+M01204Tag Young Scholars                                          240 EAST 109 STREET   0102 
+M01501P.S. 015 Roberto Clemente                                   333 EAST  4 STREET    0101 
+M01806P.S. 018 Park Terrace                                       4124 9 AVENUE         0102 
+M01901P.S. 019 Asher Levy                                         185 1 AVENUE          0101 
+M02001P.S. 020 Anna Silver                                        166 ESSEX STREET      0101 
+M02806P.S. 028 Wright Brothers                                    475 WEST 155 STREET   0101 
+M03005P.S. 030 Hernandez/Hughes                                   144-176 EAST 128 STREE0101 
+M03302P.S. 033 Chelsea Prep                                       281 9 AVENUE          0101 
+M03401P.S. 034 Franklin D. Roosevelt                              730 EAST  12 STREET   0102 
+M03597P.S. 035                                                    317 WEST  52ND STREET 0105 
+M03605P.S. 036 Margaret Douglas                                   123 MORNINGSIDE DRIVE 0101 
+M03704River East Elementary                                       508 EAST 120 STREET   0101 
+M03804P.S. 38 Roberto Clemente                                    232 EAST 103 STREET   0101 
+M04002P.S. 040 Augustus Saint-Gaudens                             319 EAST 19 STREET    0101 
+M04102P.S. 041 Greenwich Village                                  116 WEST  11 STREET   0101 
+M04202P.S. 042 Benjamin Altman                                    71 HESTER STREET      0101 
+M04605P.S. 046 Arthur Tappan                                      2987 FREDERICK DOUGLAS0102 
+M0470247 The American Sign Language and English Secondary         223 EAST 23 STREET    0104 
+M04806P.S. 048 P.O. Michael J. Buczek                             4360-78 BROADWAY      0101 
+M05004P.S. 050 Vito Marcantonio                                   433 EAST 100 STREET   0102 
+M05102P.S. 051 Elias Howe                                         525 WEST 44TH STREET  0101 
+M05206J.H.S. 052 Inwood                                           650 ACADEMY STREET    0102 
+M05403J.H.S. 054 Booker T. Washington                             103 WEST 107 STREET   0102 
+M05704James Weldon Johnson                                        176 EAST 115 STREET   0102 
+M05902P.S. 059 Beekman Hill International                         231-249 EAST 56 STREET0101 
+M06301The STAR Academy - P.S.63                                   121 EAST  3 STREET    0101 
+M06401P.S. 064 Robert Simon                                       600 EAST  6 STREET    0101 
+M07204The Lexington Academy                                       131 EAST 104 STREET   0102 
+M07503P.S. 075 Emily Dickinson                                    735 WEST END AVENUE   0101 
+M07603P.S. 076 A. Philip Randolph                                 220 WEST 121 STREET   0102 
+M07702P.S. 77 Lower Lab School                                    1700 3 AVENUE         0101 
+M07997P.S. M079 - Horan School                                    55 EAST 120 STREET    0105 
+M08304P.S. 083 Luis Munoz Rivera                                  219 EAST 109 STREET   0101 
+M08403P.S. 084 Lillian Weber                                      32 WEST  92 STREET    0101 
+M08703P.S. 087 William Sherman                                    160 WEST  78 STREET   0101 
+M08902P.S. 89                                                     201 WARREN STREET     0101 
+M09205P.S. 092 Mary McLeod Bethune                                222 WEST 134 STREET   0101 
+M09497P.S. M094                                                   55 BATTERY PLACE      0105 
+M09604P.S. 096 Joseph Lanzetta                                    216 EAST 120 STREET   0102 
+M09806P.S. 098 Shorac Kappock                                     512 WEST 212 STREET   0101 
+M10204P.S. 102 Jacques Cartier                                    315 EAST 113 STREET   0101 
+M10306Dos Puentes Elementary School                               185 WADSWORTH AVENUE  0101 
+M10402J.H.S. 104 Simon Baruch                                     330 EAST  21 STREET   0102 
+M10804P.S. 108 Assemblyman Angelo Del Toro Educational Complex    1615 MADISON AVENUE   0102 
+M11001P.S. 110 Florence Nightingale                               285 DELANCY STREET    0101 
+M11102P.S. 111 Adolph S. Ochs                                     440 WEST  53 STREET   0101 
+M11204P.S. 112 Jose Celso Barbosa                                 535 EAST 119 STREET   0101 
+M11402East Side Middle School                                     331 EAST 91ST STREET  0102 
+M11506P.S. 115 Alexander Humboldt                                 586 WEST 177 STREET   0101 
+M11602P.S. 116 Mary Lindley Murray                                210 EAST  33 STREET   0101 
+M12305P.S. 123 Mahalia Jackson                                    301 WEST 140 STREET   0102 
+M12402P.S. 124 Yung Wing                                          40 DIVISION STREET    0101 
+M12505P.S. 125 Ralph Bunche                                       425 WEST 123 STREET   0101 
+M12602P.S. 126 Jacob August Riis                                  80 CATHERINE STREET   0102 
+M12806P.S. 128 Audubon                                            560 WEST 169 STREET   0101 
+M12905P.S. 129 John H. Finley                                     425 WEST 130 STREET   0102 
+M13002P.S. 130 Hernando De Soto                                   143 BAXTER STREET     0101 
+M13102M.S. 131                                                    100 HESTER STREET     0102 
+M13206P.S. 132 Juan Pablo Duarte                                  185 WADSWORTH AVENUE  0101 
+M13305P.S. 133 Fred R Moore                                       2121 5 AVENUE         0101 
+M13401P.S. 134 Henrietta Szold                                    293 EAST BROADWAY     0101 
+M13502The Urban Assembly School for Emergency Management          411 PEARL STREET      0104 
+M13897P.S. 138                                                    144-176 EAST 128 STREE0105 
+M13902Stephen T. Mather Building Arts & Craftsmanship High School 439 WEST 49TH STREET  0104 
+M14001P.S. 140 Nathan Straus                                      123 RIDGE STREET      0102 
+M14201P.S. 142 Amalia Castro                                      100 ATTORNEY STREET   0101 
+M14306J.H.S. 143 Eleanor Roosevelt                                511 WEST 182ND STREET 0102 
+M14503P.S. 145, The Bloomingdale School                           150 WEST 105 STREET   0101 
+M14604P.S. 146 Ann M. Short                                       421 EAST 106 STREET   0101 
+M14805Eagle Academy for Young Men of Harlem                       6 EDGECOMBE AVENUE    0102 
+M14903P.S. 149 Sojourner Truth                                    41 WEST 117 STREET    0102 
+M15002P.S. 150                                                    334 GREENWICH STREET  0101 
+M15102Yorkville Community School                                  421 EAST  88 STREET   0101 
+M15206P.S. 152 Dyckman Valley                                     93 NAGLE AVENUE       0101 
+M15306P.S. 153 Adam Clayton Powell                                1750 AMSTERDAM AVENUE 0101 
+M15405P.S. 154 Harriet Tubman                                     250 WEST 127 STREET   0101 
+M15504P.S. 155 William Paca                                       319 EAST 117 STREET   0101 
+M15705The Urban Assembly School for Global Commerce               2005 MADISON AVENUE   0104 
+M15802P.S. 158 Bayard Taylor                                      1458 YORK AVENUE      0101 
+M16105P.S. 161 Pedro Albizu Campos                                499 WEST 133 STREET   0102 
+M16303P.S. 163 Alfred E. Smith                                    163 WEST  97 STREET   0101 
+M16503P.S. 165 Robert E. Simon                                    234 WEST 109 STREET   0102 
+M16603P.S. 166 The Richard Rodgers School of The Arts & Technology132 WEST  89 STREET   0101 
+M16702J.H.S. 167 Robert F. Wagner                                 220 EAST  76 STREET   0102 
+M16997P.S. M169 - Robert F. Kennedy                               110 EAST  88 STREET   0105 
+M17104P.S. 171 Patrick Henry                                      19 EAST 103 STREET    0102 
+M17306P.S. 173                                                    306 FORT WASHINGTON AV0101 
+M17505P.S. 175 Henry H Garnet                                     175 WEST 134 STREET   0101 
+M17702Yorkville East Middle School                                1458 YORK AVENUE      0102 
+M17806Professor Juan Bosch Public School                          12-18 ELLWOOD STREET  0101 
+M18003P.S. 180 Hugo Newman                                        370 WEST 120TH STREET 0102 
+M18204The Bilingual Bicultural School                             219 EAST 109 STREET   0101 
+M18302P.S. 183 Robert L. Stevenson                                419 EAST  66 STREET   0101 
+M18401P.S. 184m Shuang Wen                                        327 CHERRY STREET     0102 
+M18503P.S. 185 - The Early Childhood Discovery & Design Magnet    20 WEST 112 STREET    0101 
+M18706P.S./I.S. 187 Hudson Cliffs                                 349 CABRINI BOULEVARD 0102 
+M18801P.S. 188 The Island School                                  442 EAST HOUSTON STREE0102 
+M18906P.S. 189                                                    2580 AMSTERDAM AVENUE 0101 
+M19103P.S. 191 Amsterdam                                          210 WEST  61 STREET   0102 
+M19206P.S. 192 Jacob H. Schiff                                    500 WEST 138 STREET   0101 
+M19405P.S. 194 Countee Cullen                                     244 WEST 144 STREET   0101 
+M19705P.S. 197 John B. Russwurm                                   2230 5 AVENUE         0101 
+M19802P.S. 198 Isador E. Ida Straus                               1700 3 AVENUE         0101 
+M19903P.S. 199 Jessie Isador Straus                               270 WEST  70 STREET   0101 
+M20005P.S. 200- The James Mccune Smith School                     2589 7 AVENUE         0101 
+M20604P.S. 206 Jose Celso Barbosa                                 508 EAST 120 STREET   0102 
+M20803P.S. 208 Alain L. Locke                                     21 WEST 111 STREET    0101 
+M20906Hamilton Grange Middle School                               500 WEST 138 STREET   0102 
+M21006P.S./I.S. 210 - Twenty-first Century Academy for Community  501-503 WEST 152 STREE0102 
+M21106Inwood Early College for Health and Information Te          650 ACADEMY STREET    0104 
+M21202P.S. 212 Midtown West                                       328 WEST  48 STREET   0101 
+M21702P.S./I.S. 217 Roosevelt Island                              645 MAIN STREET       0102 
+M21806I.S. 218 Salome Urena                                       4600 BROADWAY         0102 
+M22306The Mott Hall School                                        71-111 CONVENT AVE    0102 
+M22404M.S. 224 Manhattan East School for Arts & Academic          410 EAST 100 STREET   0102 
+M22502Ella Baker School                                           317 EAST  67 STREET   0102 
+M22697P.S. M226                                                   345 EAST  15TH STREET 0105 
+M23402P.S. 234 Independence School                                292 GREENWICH STREET  0101 
+M24103STEM Institute of Manhattan                                 240 WEST 113 STREET   0101 
+M24203P.S. 242 - The Young Diplomats Magnet Academy               134 WEST 122 STREET   0101 
+M24303M.S. 243 Center School                                      100 WEST  84 STREET   0102 
+M24503M.S. M245 The Computer School                               100 WEST  77 STREET   0102 
+M24703M.S. M247 Dual Language Middle School                       32 WEST  92 STREET    0102 
+M25003M.S. 250 West Side Collaborative Middle School              735 WEST END AVENUE   0102 
+M25502M.S. 255 Salk School of Science                             319 EAST 19 STREET    0102 
+M25603M.S. 256 Academic & Athletic Excellence                     154 WEST  93 STREET   0102 
+M25803Community Action School - MS 258                            154 WEST  93 STREET   0102 
+M26002M.S. 260 Clinton School Writers & Artists                   10 East 15th Street   0104 
+M26702East Side Elementary School, PS 267                         213 EAST 63RD STREET  0101 
+M27602Battery Park City School                                    55 BATTERY PLACE      0102 
+M27806Paula Hedbavny School                                       421 W 219TH ST        0102 
+M28002Manhattan Early College School for Advertising              411 PEARL STREET      0104 
+M28102The River School                                            425 EAST 35TH STREET  0101 
+M28202Urban Assembly Maker Academy                                411 PEARL STREET      0104 
+M28505Harlem Renaissance High School                              22 EAST 128 STREET    0104 
+M28605I.S. M286 Renaissance Leadership Academy                    509 WEST 129 STREET   0102 
+M28802Food and Finance High School                                525 WEST  50TH STREET 0104 
+M28902I.S. 289                                                    201 WARREN STREET     0102 
+M29002P.S. 290 Manhattan New School                               311 EAST  82 STREET   0101 
+M29103West End Secondary School                                   227-243 WEST 61ST STRE0102 
+M29201Orchard Collegiate Academy                                  220 HENRY STREET      0104 
+M29306City College Academy of the Arts                            4600 BROADWAY         0104 
+M29402Essex Street Academy                                        350 GRAND STREET      0104 
+M29602High School of Hospitality Management                       525 WEST  50TH STREET 0104 
+M29802Pace High School                                            100 HESTER STREET     0104 
+M29903The Maxine Greene HS for Imaginative Inquiry                122 AMSTERDAM AVENUE  0104 
+M30002Urban Assembly School of Design and Construction            525 WEST  50TH STREET 0104 
+M30101Technology, Arts, and Sciences Studio                       185 1 AVENUE          0102 
+M30205KAPPA IV                                                    6 EDGECOMBE AVENUE    0102 
+M30302Facing History School, The                                  525 WEST  50TH STREET 0104 
+M30405Mott Hall High School                                       6 EDGECOMBE AVENUE    0104 
+M30502Urban Assembly Academy of Government and Law, The           350 GRAND STREET      0104 
+M30703Urban Assembly School for Media Studies, The                122 AMSTERDAM AVENUE  0104 
+M30802Lower Manhattan Arts Academy                                350 GRAND STREET      0104 
+M31106Amistad Dual Language School                                4862 BROADWAY         0102 
+M31202New York City Lab Middle School for Collaborative           333 WEST  17 STREET   0102 
+M31302James Baldwin School, The: A School for Expedition          351 WEST  18 STREET   0104 
+M31406Muscota                                                     4862 BROADWAY         0101 
+M31501The East Village Community School                           610 EAST  12 STREET   0101 
+M31602Urban Assembly School of Business for Young Women, The      26 BROADWAY           0104 
+M31805Thurgood Marshall Academy Lower School                      276 WEST 151ST STREET 0101 
+M31906M.S. 319 - Maria Teresa                                     21 JUMEL PLACE        0102 
+M32206Middle School 322                                           4600 BROADWAY         0102 
+M32406M.S. 324 - Patria Mirabal                                   21 JUMEL PLACE        0102 
+M32506P.S. 325                                                    500 WEST 138 STREET   0101 
+M32806M.S. 328 - Manhattan Middle School for Scientific           401 WEST 164 STREET   0102 
+M33201University Neighborhood Middle School                       220 HENRY STREET      0102 
+M33303P.S. 333 Manhattan School for Children                      154 WEST  93 STREET   0102 
+M33403The Anderson School                                         100 WEST  77 STREET   0102 
+M34002Sixth Avenue Elementary School                              590 SIXTH AVENUE      0101 
+M34302The Peck Slip School                                        1 PECK SLIP           0101 
+M34606Community Health Academy of the Heights                     504 WEST 158TH STREET 0104 
+M34702The 47 American Sign Language & English Lower School        223 EAST 23 STREET    0102 
+M34806Washington Heights Expeditionary Learning School            511 WEST 182ND STREET 0104 
+M34906Harbor Heights                                              306 FORT WASHINGTON AV0102 
+M36101The Children's Workshop School                              610 EAST  12 STREET   0101 
+M36205Columbia Secondary School                                   425 WEST 123 STREET   0104 
+M36301Neighborhood School                                         121 EAST  3 STREET    0101 
+M36401Earth School                                                600 EAST  6 STREET    0101 
+M36606Washington Heights Academy                                  202 SHERMAN AVE       0102 
+M36705Academy for Social Action                                   509 WEST 129 STREET   0104 
+M36806Hamilton Heights School                                     1750 AMSTERDAM AVENUE 0101 
+M36905Urban Assembly School for the Performing Arts               509 WEST 129 STREET   0104 
+M37204Esperanza Preparatory Academy                               240 EAST 109 STREET   0104 
+M37402Gramercy Arts High School                                   40 IRVING PLACE       0104 
+M37504Mosaic Preparatory Academy                                  141 EAST 111 STREET   0101 
+M37602NYC iSchool                                                 131 AVENUE OF THE AMER0104 
+M37704Renaissance School of the Arts                              319 EAST 117 STREET   0102 
+M37801School for Global Leaders                                   145 STANTON STREET    0102 
+M39202Manhattan Business Academy                                  351 WEST  18 STREET   0104 
+M39302Business Of Sports School                                   439 WEST 49TH STREET  0104 
+M39402Emma Lazarus High School                                    100 HESTER STREET     0104 
+M39702Spruce Street School                                        12 SPRUCE STREET      0101 
+M39902The High School For Language And Diplomacy                  40 IRVING PLACE       0104 
+M40002High School for Environmental Studies                       444 WEST 56 STREET    0104 
+M40197Hospital Schools                                            3450 EAST TREMONT AVEN0105 
+M40203The Urban Assembly School for Green Careers                 145 WEST  84 STREET   0104 
+M40303The Global Learning Collaborative                           145 WEST  84 STREET   0104 
+M40403Innovation Diploma Plus                                     145 WEST  84 STREET   0104 
+M40604Global Technology Preparatory                               160 EAST 120 STREET   0102 
+M40702Institute for Collaborative Education                       345 EAST  15TH STREET 0104 
+M40802Professional Performing Arts High School                    328 WEST  48 STREET   0104 
+M40904Coalition School for Social Change                          2351 FIRST AVENUE     0104 
+M41102Baruch College Campus High School                           55 EAST  25 STREET    0104 
+M41202N.Y.C. Lab School for Collaborative Studies                 333 WEST  17 STREET   0104 
+M41302School of the Future High School                            127 EAST  22 STREET   0104 
+M41402N.Y.C. Museum School                                        333 WEST  17 STREET   0104 
+M41503Wadleigh Secondary School for the Performing & Visual Arts  215 WEST 114 STREET   0104 
+M41602Eleanor Roosevelt High School                               411 EAST 76 STREET    0104 
+M41703Frank Mccourt High School                                   145 WEST  84 STREET   0104 
+M41802Millennium High School                                      75 BROAD STREET       0104 
+M41902Landmark High School                                        351 WEST  18 STREET   0104 
+M42002High School for Health Professions and Human Services       345 EAST  15TH STREET 0104 
+M42103West Prep Academy                                           150 WEST 105 STREET   0102 
+M42202Quest to Learn                                              351 WEST  18 STREET   0104 
+M42306High School for Excellence and Innovation                   650 ACADEMY STREET    0104 
+M42502Leadership and Public Service High School                   90 TRINITY PLACE      0104 
+M42702Manhattan Academy For Arts & Language                       111 EAST  33RD STREET 0104 
+M43202Murray Hill Academy                                         111 EAST  33RD STREET 0104 
+M43504Manhattan Center for Science and Mathematics                260 PLEASANT AVENUE   0104 
+M43702Hudson High School of Learning Technologies                 351 WEST  18 STREET   0104 
+M43802International High School at Union Square                   40 IRVING PLACE       0104 
+M43902Manhattan Village Academy                                   43 WEST  22 STREET    0104 
+M44202Ballet Tech, NYC Public School for Dance                    890 BROADWAY          0102 
+M44801University Neighborhood High School                         200 MONROE STREET     0104 
+M44902Vanguard High School                                        317 EAST  67 STREET   0104 
+M45001East Side Community School                                  420 EAST 12 STREET    0104 
+M45203P.S. 452                                                    100 WEST  77 STREET   0101 
+M45706George Washington Yabc                                      549 AUDUBON AVENUE    0104 
+M45801Forsyth Satellite Academy                                   198 FORSYTH STREET    0104 
+M45902Manhattan International High School                         317 EAST  67 STREET   0104 
+M46206The College Academy                                         549 AUDUBON AVENUE    0104 
+M46306High School for Media and Communications                    549 AUDUBON AVENUE    0104 
+M46706High School for Law and Public Service                      549 AUDUBON AVENUE    0104 
+M46806High School for Health Careers and Sciences                 549 AUDUBON AVENUE    0104 
+M47302Washington Irving Yabc                                      40 IRVING PLACE       0104 
+M47502Stuyvesant High School                                      345 CHAMBERS STREET   0104 
+M47903Beacon High School                                          522 WEST 44TH STREET  0104 
+M48503Fiorello H. LaGuardia HS of Music & Art and Perform. Arts   100 AMSTERDAM AVENUE  0104 
+M48902High School of Economics and Finance                        100 TRINITY PLACE     0104 
+M49203High School for Law, Advocacy and Community Justice         122 AMSTERDAM AVENUE  0104 
+M49403High School of Arts and Technology                          122 AMSTERDAM AVENUE  0104 
+M49504Park East High School                                       230 EAST 105 STREET   0104 
+M49704Central Park East I                                         1573 MADISON AVENUE   0101 
+M49905Frederick Douglass Academy                                  2581 7TH AVENUE       0104 
+M50002Unity Center for Urban Technologies                         111 EAST  33RD STREET 0104 
+M50197Home Instruction                                            3450 EAST TREMONT AVEN0105 
+M50503Edward A. Reynolds West Side High School                    140 WEST 102 STREET   0104 
+M50702Urban Assembly Gateway School for Technology                439 WEST 49TH STREET  0104 
+M50901Marta Valle High School                                     145 STANTON STREET    0104 
+M51306Castle Bridge School                                        560 WEST 169 STREET   0101 
+M51405New Design Middle School                                    625 WEST 133 STREET   0102 
+M51501Lower East Side Preparatory High School                     145 STANTON STREET    0104 
+M51705Teachers College Community School                           168 MORNINGSIDE AVENUE0101 
+M51902Talent Unlimited High School                                317 EAST  67 STREET   0104 
+M52002Murry Bergtraum High School for Business Careers            411 PEARL STREET      0104 
+M52702P.S. 527 - East Side School for Social Action               323 EAST 91 STREET    0101 
+M52806I.S. 528 Bea Fuller Rodgers School                          180 WADSWORTH AVENUE  0102 
+M52902Jacqueline Kennedy Onassis High School                      120 WEST  46 STREET   0104 
+M53102Repertory Company High School for Theatre Arts              123 WEST  43 STREET   0104 
+M53302Union Square Academy for Health Sciences                    40 IRVING PLACE       0104 
+M53402Harvest Collegiate High School                              34 WEST  14 STREET    0104 
+M53901New Explorations into Science, Technology and Math          111 COLUMBIA STREET   0104 
+M54006A. Philip Randolph Campus High School                       443 WEST 135 STREET   0104 
+M54103Manhattan / Hunter Science High School                      122 AMSTERDAM AVENUE  0104 
+M54202Manhattan Bridges High School                               525 WEST  50TH STREET 0104 
+M54302New Design High School                                      350 GRAND STREET      0104 
+M54402Independence High School                                    850 10TH AVENUE       0104 
+M54502High School for Dual Language and Asian Studies             350 GRAND STREET      0104 
+M54602Academy for Software Engineering                            40 IRVING PLACE       0104 
+M55002Liberty High School Academy for Newcomers                   250 WEST  18 STREET   0104 
+M55102Urban Assembly New York Harbor School                       10 SOUTH STREET, SLIP 0104 
+M55206Gregorio Luperon High School for Science and Math           501 WEST 165TH STREET 0104 
+M55504Central Park East High School                               1573 MADISON AVENUE   0104 
+M56002High School M560 - City As School                           16 CLARKSON STREET    0104 
+M56502Urban Academy Laboratory High School                        317 EAST  67 STREET   0104 
+M57002Satellite Academy High School                               120 WEST  30 STREET   0104 
+M57502Manhattan Comprehensive Night and Day High School           240 2 AVENUE          0104 
+M58002Richard R. Green High School of Teaching                    26 BROADWAY           0104 
+M58602Harvey Milk High School                                     2-10 ASTOR PLACE      0104 
+M60002The High School of Fashion Industries                       225 WEST  24 STREET   0104 
+M60502Humanities Preparatory Academy                              351 WEST  18 STREET   0104 
+M61004Young Women's Leadership School                             105 EAST 106TH STREET 0104 
+M61502Chelsea Career and Technical Education High School          131 AVENUE OF THE AMER0104 
+M63002Art and Design High School                                  231-249 EAST 56 STREET0104 
+M65001Cascades High School                                        198 FORSYTH STREET    0104 
+M65502Life Sciences Secondary School                              320 EAST  96 STREET   0104 
+M67005Thurgood Marshall Academy for Learning and Social Change    200-214 WEST 135TH STR0104 
+M68004Heritage School, The                                        1680 LEXINGTON AVENUE 0104 
+M69205High School for Mathematics, Science and Engineering        240 CONVENT AVE       0104 
+M69601Bard High School Early College                              525 EAST HOUSTON STREE0104 
+M71101NYCEEC NYC Early Childhood Center 01                        DISTRICT 01           9903 
+M71202NYCEEC NYC Early Childhood Center 02                        DISTRICT 02           9903 
+M71303NYCEEC NYC Early Childhood Center 03                        DISTRICT 03           9903 
+M71404NYCEEC NYC Early Childhood Center 04                        DISTRICT 04           9903 
+M71505NYCEEC NYC Early Childhood Center 05                        DISTRICT 05           9903 
+M71606NYCEEC NYC Early Childhood Center 06                        DISTRICT 06           9903 
+M72197P.S. M721 - Manhattan Occupational Training Center          250 WEST HOUSTON STREE0105 
+M75197Manhattan School for Career Development                     113 EAST  4TH STREET  0105 
+M81197P.S. M811 - Mickey Mantle School                            466 WEST END AVENUE   0105 
+M82504Isaac Newton Middle School for Math & Science               260 PLEASANT AVENUE   0102 
+M83901Tompkins Square Middle School                               600 EAST  6 STREET    0102 
+M85903Special Music School                                        129 WEST  67 STREET   0104 
+M86003Frederick Douglass Academy II Secondary School              215 WEST 114 STREET   0104 
+M86203Mott Hall II                                                234 WEST 109 STREET   0102 
+M89602Lower Manhattan Community Middle School                     26 BROADWAY           0102 
+M93302City Knoll Middle School                                    425 WEST 33RD STREET  0102 
+M96404Central Park East II                                        19 EAST 103 STREET    0101 
+M97379Restart Academy                                             444 WEST 56 STREET    0104 
+MP0202District 02 Pre-K Center                                    2-26 WASHINGTON STREET0101 
+Q00230P.S. 002 Alfred Zimberg                                     75-10 21 AVENUE       0101 
+Q00497P.S. Q004                                                   196-25 PECK AVENUE    0105 
+Q00524I.S. 5 - The Walter Crowley Intermediate School             50-40 JACOBUS STREET  0102 
+Q00724P.S. 007 Louis F. Simeone                                   80-55 CORNISH AVENUE  0101 
+Q00828J.H.S. 008 Richard S. Grossley                              108-35 167 STREET     0102 
+Q00997P.S. 009                                                    58-74 57 STREET       0105 
+Q01030I.S. 010 Horace Greeley                                     45-11 31ST AVE        0102 
+Q01130P.S. 011 Kathryn Phelan                                     54-25 SKILLMAN AVENUE 0101 
+Q01224P.S. 012 James B. Colgate                                   42-00 72 STREET       0101 
+Q01324P.S. 013 Clement C. Moore                                   55-01 94 STREET       0101 
+Q01424P.S. 014 Fairview                                           107-01 OTIS AVENUE    0101 
+Q01529P.S. 015 Jackie Robinson                                    121-15 LUCAS STREET   0101 
+Q01624P.S. Q016 The Nancy DeBenedittis School                     41-15 104 STREET      0101 
+Q01730P.S. 017 Henry David Thoreau                                28-37 29 STREET       0101 
+Q01826P.S. 018 Winchester                                         86-35 235 COURT       0101 
+Q01924P.S. 019 Marino Jeantet                                     98-02 ROOSEVELT AVENUE0101 
+Q02025P.S. 020 John Bowne                                         142-30 BARCLAY AVENUE 0101 
+Q02125P.S. 021 Edward Hart                                        147-36 26 AVENUE      0101 
+Q02225P.S. 022 Thomas Jefferson                                   153-33 SANFORD AVENUE 0101 
+Q02397P.S. Q023 @ Queens Children Center                          74-03 COMMONWEALTH BOU0105 
+Q02425P.S. 024 Andrew Jackson                                     141-11 HOLLY AVENUE   0101 
+Q02525I.S. 025 Adrien Block                                       34-65 192 STREET      0102 
+Q02626P.S. 026 Rufus King                                         195-02 69 AVENUE      0101 
+Q02824P.S. 28 - The Thomas Emanuel Early Childhood Center         109-10 47 AVENUE      0101 
+Q02925P.S. 029 Queens                                             125-10 23 AVENUE      0101 
+Q03126P.S. 031 Bayside                                            211-45 46 ROAD        0101 
+Q03225P.S. 032 State Street                                       171-11 35 AVENUE      0101 
+Q03329P.S. 033 Edward M. Funk                                     91-37 222 STREET      0101 
+Q03429P.S. 034 John Harvard                                       104-12 SPRINGFIELD BOU0101 
+Q03529P.S. 035 Nathaniel Woodhull                                 191-02 90 AVENUE      0101 
+Q03629P.S. 036 Saint Albans School                                187-01 FOCH BOULEVARD 0101 
+Q03729Cynthia Jenkins School                                      179-37 137 AVENUE     0101 
+Q03829P.S. 038 Rosedale                                           135-21 241 STREET     0101 
+Q04028P.S. 040 Samuel Huntington                                  109-20 UNION HALL STRE0101 
+Q04126P.S. 041 Crocheron                                          214-43 35 AVENUE      0101 
+Q04227P.S./M.S 042 R. Vernam                                      488 BEACH  66 STREET  0102 
+Q04327P.S. 043                                                    160 BEACH  29 STREET  0102 
+Q04527P.S. 045 Clarence Witherspoon                               126-28 150 STREET     0101 
+Q04626P.S. 046 Alley Pond                                         64-45 218 STREET      0101 
+Q04727P.S. 047 Chris Galas                                        9 POWER ROAD          0102 
+Q04828P.S. 048 William Wordsworth                                 108-29 155 STREET     0101 
+Q04924P.S. 049 Dorothy Bonawit Kole                               63-60 80th Street     0102 
+Q05028P.S. 050 Talfourd Lawn Elementary School                    143-26 101 AVENUE     0101 
+Q05127P.S. 051                                                    87-45 117 STREET      0101 
+Q05229P.S. 052 Queens                                             178-37 146 TERRACE    0101 
+Q05327M.S. 053 Brian Piccolo                                      10-45 NAMEOKE STREET  0102 
+Q05428P.S. 054 Hillside                                           86-02 127 STREET      0101 
+Q05528P.S. 055 Maure                                              131-10 97 AVENUE      0101 
+Q05627P.S. 056 Harry Eichler                                      86-10 114 STREET      0101 
+Q05824P.S. 58 - The School of Heroes                              72-24 GRAND AVENUE    0101 
+Q05929I.S. 059 Springfield Gardens                                132-55 RIDGEDALE STREE0102 
+Q06027P.S. 060 Woodhaven                                          91-02 88 AVENUE       0101 
+Q06124I.S. 061 Leonardo Da Vinci                                  98-50 50 AVENUE       0102 
+Q06227P. S. 62 - Chester Park School                              97-25 108 STREET      0101 
+Q06327P.S. 063 Old South                                          90-15 SUTTER AVENUE   0101 
+Q06427P.S. 064 Joseph P. Addabbo                                  82-01 101 AVENUE      0101 
+Q06527P.S. 65 - The Raymond York Elementary School                103-22 99 STREET      0101 
+Q06627P.S. 066 Jacqueline Kennedy Onassis                         85-11 102 STREET      0101 
+Q06726J.H.S. 067 Louis Pasteur                                    51-60 MARATHON PARKWAY0102 
+Q06824P.S. 068 Cambridge                                          59-09 SAINT FELIX AVEN0101 
+Q06930P.S. 069 Jackson Heights                                    77-02 37 AVENUE       0101 
+Q07030P.S. 070                                                    30-45 42 STREET       0101 
+Q07124P.S. 071 Forest                                             62-85 FOREST AVENUE   0101 
+Q07228Catherine & Count Basie Middle School 72                    133-25 GUY R BREWER BO0102 
+Q07324I.S. 73 - The Frank Sansivieri Intermediate School          70-02 54 AVENUE       0102 
+Q07426J.H.S. 074 Nathaniel Hawthorne                              61-15 OCEANIA STREET  0102 
+Q07597Robert E. Peary School                                      16-66 HANCOCK STREET  0105 
+Q07630P.S. 076 William Hallet                                     36-36 10 STREET       0101 
+Q07724I.S. 077                                                    976 SENECA AVENUE     0102 
+Q07830P.S./I.S. 78Q                                               48-09 CENTER BOULEVARD0102 
+Q07925P.S. 079 Francis Lewis                                      147-27 15 DRIVE       0101 
+Q08028PS 80 The Thurgood Marshall Magnet School of Multimedia     171-05 137TH AVENUE   0101 
+Q08124P.S. 81Q Jean Paul Richter                                  559 CYPRESS AVENUE    0101 
+Q08228P.S. 082 Hammond                                            88-02 144 STREET      0101 
+Q08430P.S. 084 Steinway                                           22-45 41 STREET       0101 
+Q08530P.S. 085 Judge Charles Vallone                              23-70 31 STREET       0101 
+Q08628P.S. Q086                                                   87-41 PARSONS BOULEVAR0101 
+Q08724P.S./I.S. 087 Middle Village                                67-54 80 STREET       0102 
+Q08824P.S. 088 Seneca                                             60-85 CATALPA AVENUE  0101 
+Q08924P.S. 089 Elmhurst                                           85-28 BRITTON AVENUE  0101 
+Q09027P.S. 090 Horace Mann                                        86-50 109 STREET      0101 
+Q09124P.S. 091 Richard Arkwright                                  68-10 CENTRAL AVE     0101 
+Q09230P.S. 092 Harry T. Stewart Sr.                               99-01 34 AVENUE       0101 
+Q09324I.S. 093 Ridgewood                                          66-56 FOREST AVENUE   0102 
+Q09426P.S. 094 David D. Porter                                    41-77 LITTLE NECK PARK0101 
+Q09529P.S. 095 Eastwood                                           179-01 90 AVENUE      0101 
+Q09627P.S. 096                                                    130-01 ROCKAWAY BOULEV0101 
+Q09727P.S. 097 Forest Park                                        85-52 85 STREET       0101 
+Q09826P.S. 098 The Douglaston School                              40-20 235 STREET      0101 
+Q09928P.S. 099 Kew Gardens                                        82-37 KEW GARDENS ROAD0101 
+Q10027P.S. 100 Glen Morris                                        111-11 118 STREET     0101 
+Q10128P.S. 101 School in the Gardens                              2 RUSSELL PLACE       0101 
+Q10224P.S. 102 Bayview                                            55-24 VAN HORN STREET 0102 
+Q10427P.S. 104 The Bays Water                                     26-01 MOTT AVENUE     0101 
+Q10527P.S. 105 The Bay School                                     420 BEACH  51 STREET  0102 
+Q10627Lighthouse Elementary School                                180 BEACH  35 STREET  0101 
+Q10725P.S. 107 Thomas A Dooley                                    167-02 45 AVENUE      0101 
+Q10827P.S. 108 Captain Vincent G. Fowler                          108-10 109 AVENUE     0101 
+Q10929Jean Nuzzi Intermediate School                              213-10 92 AVENUE      0102 
+Q11024P.S. 110                                                    43-18 97TH PLACE      0101 
+Q11130P.S. 111 Jacob Blackwell                                    37-15 13 STREET       0102 
+Q11230P.S. 112 Dutch Kills                                        25-05 37 AVENUE       0101 
+Q11324P.S./I.S. 113 Anthony J. Pranzo                             78-23 87TH STREET     0102 
+Q11427P.S./M.S. 114 Belle Harbor                                  134-01 CRONSTON AVENUE0102 
+Q11526P.S. 115 The James J. Ambrose School                        80-51 261 STREET      0101 
+Q11629P.S./I.S. 116 William C. Hughley                            107-25 WREN PLACE     0102 
+Q11728P.S. 117 J. Keld / Briarwood School                         85-15 143 STREET      0101 
+Q11829P.S. 118 Lorraine Hansberry                                 190-20 109 ROAD       0101 
+Q11924I.S. 119 The Glendale                                       74-01 78 AVENUE       0102 
+Q12025P.S. 120 Queens                                             58-01 136 STREET      0101 
+Q12128P.S. 121 Queens                                             126-10 109 AVENUE     0101 
+Q12230P.S. 122 Mamie Fay                                          21-21 DITMARS BOULEVAR0102 
+Q12327P.S. 123                                                    145-01 119 AVENUE     0101 
+Q12427P.S. 124 Osmond A Church                                    129-15 150 AVENUE     0102 
+Q12524I.S. 125 Thom J. McCann Woodside                            46-02 47 AVENUE       0102 
+Q12630Albert Shanker School for Visual and Performing Arts        31-51 21 STREET       0102 
+Q12730P.S. 127 Aerospace Science Magnet School                    98-01 25 AVENUE       0102 
+Q12824P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary      69-10 65th Drive      0102 
+Q12925P.S. 129 Patricia Larkin                                    128-02 7 AVENUE       0101 
+Q13025P.S. 130                                                    200-01 42 AVENUE      0101 
+Q13129P.S. 131 Abigail Adams                                      170-45 84 AVENUE      0101 
+Q13229P.S. 132 Ralph Bunche                                       132-15 218 STREET     0101 
+Q13326P.S. 133 Queens                                             248-05 86 AVENUE      0101 
+Q13429P.S. 134 Hollis                                             203-02 109 AVENUE     0101 
+Q13529The Bellaire School                                         207-11 89 AVENUE      0101 
+Q13629P.S. 136 Roy Wilkins                                        201-15 115 AVENUE     0101 
+Q13727M.S. 137 America's School of Heroes                         109-15 98 STREET      0102 
+Q13829P.S./M.S. 138 Sunrise                                       251-11 WELLER AVENUE  0102 
+Q13928P.S. 139 Rego Park                                          93-06 63 DRIVE        0101 
+Q14028P.S. 140 Edward K Ellington                                 166-01 116 AVENUE     0101 
+Q14130I.S. 141 The Steinway                                       37-11 21 AVENUE       0102 
+Q14324P.S. 143 Louis Armstrong                                    34-74 113 STREET      0101 
+Q14428P.S. 144 Col Jeromus Remsen                                 93-02 69 AVENUE       0101 
+Q14530I.S. 145 Joseph Pulitzer                                    33-34 80 STREET       0102 
+Q14627P.S. 146 Howard Beach                                       98-01 159 AVENUE      0102 
+Q14729P.S./M.S. 147 Ronald McNair                                 218-01 116 AVENUE     0102 
+Q14830P.S. 148 Queens                                             89-02 32 AVENUE       0101 
+Q14930P.S. 149 Christa Mcauliffe                                  93-11 34 AVENUE       0101 
+Q15030P.S. 150 Queens                                             40-01 43 AVENUE       0101 
+Q15130P.S. 151 Mary D. Carter                                     50-05 31 AVENUE       0101 
+Q15230P.S. 152 Gwendoline N. Alleyne School                       33-52 62 STREET       0101 
+Q15324P.S. 153 Maspeth Elem                                       60-02 60 LANE         0101 
+Q15425P.S. 154 Queens                                             75-02 162 STREET      0101 
+Q15527P.S. 155                                                    130-02 115 AVENUE     0101 
+Q15629P.S. 156 Laurelton                                          229-02 137 AVENUE     0101 
+Q15728J.H.S. 157 Stephen A. Halsey                                63-55 102ND STREET    0102 
+Q15826M.S. 158 Marie Curie                                        46-35 OCEANIA STREET  0102 
+Q15926P.S. 159                                                    205-01 33 AVENUE      0101 
+Q16028P.S. 160 Walter Francis Bishop                              109-59 INWOOD STREET  0101 
+Q16128P.S. 161 Arthur Ashe School                                 101-33 124 STREET     0101 
+Q16226P.S. 162 John Golden                                        201-02 53 AVENUE      0101 
+Q16325P.S. 163 Flushing Heights                                   159-01 59 AVENUE      0101 
+Q16425P.S. 164 Queens Valley                                      138-01 77 AVENUE      0102 
+Q16525P.S. 165 Edith K. Bergtraum                                 70-35 150 STREET      0101 
+Q16630P.S. 166 Henry Gradstein                                    33-09 35 AVENUE       0101 
+Q16728Metropolitan Expeditionary Learning School                  91-30 METROPOLITAN AVE0104 
+Q16925P.S. 169 Bay Terrace                                        18-25 212 STREET      0101 
+Q17130P.S. 171 Peter G. Van Alst                                  14-14 29 AVENUE       0101 
+Q17226Irwin Altman Middle School 172                              81-14 257 STREET      0102 
+Q17326P.S. 173 Fresh Meadows                                      174-10 67 AVENUE      0101 
+Q17428P.S. 174 William Sidney Mount                               65-10 DIETERLE CRESCEN0101 
+Q17528P.S. 175 The Lynn Gross Discovery School                    64-35 102 STREET      0101 
+Q17629P.S. 176 Cambria Heights                                    120-45 235 STREET     0101 
+Q17797P.S. Q177                                                   56-37 188 STREET      0105 
+Q17826P.S./ IS 178 Holliswood                                     189-10 RADNOR ROAD    0102 
+Q18129P.S. 181 Brookfield                                         148-15 230 STREET     0101 
+Q18228P.S. 182 Samantha Smith                                     153-27 88TH AVENUE    0101 
+Q18327P.S. 183 Dr. Richard R. Green                               2-45 BEACH  79 STREET 0102 
+Q18425P.S. 184 Flushing Manor                                     163-15 21 ROAD        0101 
+Q18525J.H.S. 185 Edward Bleeker                                   147-26 25 DRIVE       0102 
+Q18626P.S. 186 Castlewood                                         252-12 72 AVENUE      0101 
+Q18826P.S. 188 Kingsbury                                          218-12 HARTLAND AVENUE0101 
+Q18925J.H.S. 189 Daniel Carter Beard                              144-80 BARCLAY AVENUE 0102 
+Q19028J.H.S. 190 Russell Sage                                     68-17 AUSTIN STREET   0102 
+Q19126P.S. 191 Mayflower                                          85-15 258 STREET      0101 
+Q19229I.S. 192 The Linden                                         109-89 204 STREET     0102 
+Q19325P.S. 193 Alfred J. Kennedy                                  152-20 11 AVENUE      0101 
+Q19425J.H.S. 194 William Carr                                     154-60 17 AVENUE      0102 
+Q19529P.S. 195 William Haberle                                    253-50 149 AVENUE     0101 
+Q19628P.S. 196 Grand Central Parkway                              71-25 113 STREET      0101 
+Q19727P.S. 197 The Ocean School                                   825 HICKSVILLE ROAD   0101 
+Q19924P.S. 199 Maurice A. Fitzgerald                              39-20 48 AVENUE       0101 
+Q20025P.S./M.S. 200 - The Pomonok School & STAR Academy           70-10 164 STREET      0102 
+Q20125P.S. 201 The Discovery School for Inquiry and Rese          65-11 155 STREET      0101 
+Q20227J.H.S. 202 Robert H. Goddard                                138-30 LAFAYETTE STREE0102 
+Q20326P.S. 203 Oakland Gardens                                    53-11 SPRINGFIELD BOUL0101 
+Q20430I.S. 204 Oliver W. Holmes                                   36-41 28 STREET       0102 
+Q20526P.S. 205 Alexander Graham Bell                              75-25 BELL BOULEVARD  0101 
+Q20628P.S. 206 The Horace Harding School                          61-02 98 STREET       0101 
+Q20727P.S. 207 Rockwood Park                                      159-15 88 STREET      0102 
+Q20829P.S./I.S. 208                                               74-30 COMMONWEALTH BLV0102 
+Q20925P.S. 209 Clearview Gardens                                  16-10 UTOPIA PARKWAY  0101 
+Q21027J.H.S. 210 Elizabeth Blackwell                              93-11 101 AVENUE      0102 
+Q21124Elm Tree Elementary School                                  86-37 53RD AVENUE     0101 
+Q21230P.S. 212                                                    34-25 82 STREET       0101 
+Q21326P.S. 213 The Carl Ullman School                             231-02 67 AVENUE      0101 
+Q21425P.S. 214 Cadwallader Colden                                 31-15 140 STREET      0101 
+Q21626J.H.S. 216 George J. Ryan                                   64-20 175 STREET      0102 
+Q21728J.H.S. 217 Robert A. Van Wyck                               85-05 144 STREET      0102 
+Q21925P.S. 219 Paul Klapper                                       144-39 GRAVETT ROAD   0102 
+Q22028P.S. 220 Edward Mandel                                      62-10 108 STREET      0101 
+Q22126P.S. 221 The North Hills School                             57-40 MARATHON PARKWAY0101 
+Q22230P.S. Q222 - Fire Fighter Christopher A. Santora Sc          86-15 37 AVENUE       0101 
+Q22327P.S. 223 Lyndon B. Johnson                                  125-20 SUTPHIN BOULEVA0101 
+Q22497P.S. Q224                                                   252-12 72 AVENUE      0105 
+Q22627J.H.S. 226 Virgil I. Grissom                                121-10 ROCKAWAY BOULEV0102 
+Q22730I.S. 227 Louis Armstrong                                    32-02 JUNCTION BOULEVA0102 
+Q22830P.S. 228 Early Childhood Magnet School of the Arts          32-63 93 STREET       0101 
+Q22924P.S. 229 Emanuel Kaplan                                     67-25 51 ROAD         0101 
+Q23030I.S. 230                                                    73-10 34 AVENUE       0102 
+Q23227P.S. 232 Lindenwood                                         153-23 83 STREET      0102 
+Q23397P.S. Q233                                                   91-30 METROPOLITAN AVE0105 
+Q23430P.S. 234                                                    30-15 29 STREET       0101 
+Q23530Academy for New Americans                                   30-14 30 STREET       0102 
+Q23624International High School for Health Sciences               48-01 90 STREET       0104 
+Q23725I.S. 237                                                    46-21 COLDEN STREET   0102 
+Q23829I.S. 238 - Susan B. Anthony Academy                         88-15 182 STREET      0102 
+Q23924P.S. 239                                                    17-15 WEIRFIELD STREET0101 
+Q24025Veritas Academy                                             35-01 UNION STREET    0104 
+Q24125Queens High School for Language Studies                     35-01 UNION STREET    0104 
+Q24225P.S. 242 Leonard P. Stavisky Early Childhood School         29-66 137 STREET      0101 
+Q24329Institute for Health Professions at Cambria Height          207- 01 116TH  AVENUE 0104 
+Q24425The Active Learning Elementary School                       137-20 FRANKLIN AVENUE0101 
+Q24829Queens Preparatory Academy                                  143-10 SPRINGFIELD BOU0104 
+Q25025I.S. 250 The Robert F. Kennedy Community Middle School      158-40 76 ROAD        0102 
+Q25129P.S. 251 Queens                                             144-51 ARTHUR STREET  0101 
+Q25225Queens School of Inquiry, The                               158-40 76 ROAD        0104 
+Q25327P.S. 253                                                    1307 CENTRAL AVENUE   0101 
+Q25427P.S. 254 - The Rosa Parks School                            84-40 101 STREET      0101 
+Q25597P.S. Q255                                                   158-40 76 ROAD        0105 
+Q25697P.S. Q256                                                   525 CONVENT ROAD      0105 
+Q25830Energy Tech High School                                     36-41 28 STREET       0104 
+Q25929Pathways College Preparatory School: A College Board        109-89 204 STREET     0104 
+Q26027Frederick Douglass Academy VI High School                   8-21 BAY 25 STREET    0104 
+Q26127Voyages Prep - South Queens                                 156-10 BAISLEY BOULEVA0104 
+Q26227Channel View School for Research                            100-00 BEACH CHANNEL D0104 
+Q26325Flushing International High School                          144-80 BARCLAY AVENUE 0104 
+Q26424Academy of Finance and  Enterprise                          30-20 THOMSON AVENUE  0104 
+Q26529Excelsior Preparatory High School                           143-10 SPRINGFIELD BOU0104 
+Q26626P.S./I.S. 266                                               74-10 COMMONWEALTH BOU0102 
+Q26724High School of Applied Communication                        30-20 THOMSON AVENUE  0104 
+Q26829P.S./I.S. 268                                               92-07 175 STREET      0102 
+Q27029The Gordon Parks School                                     233-15 MERRICK BOULEVA0102 
+Q27229George Washington Carver High School for the Scien          143-10 SPRINGFIELD BOU0104 
+Q27327P.S. 273                                                    88-07 102ND STREET    0101 
+Q27797The Riverview School                                        1-50 51ST AVENUE      0105 
+Q28030P.S. 280                                                    34-20 94TH STREET     0101 
+Q28125East-West School of International Studies                   46-21 COLDEN STREET   0104 
+Q28227Knowledge and Power Preparatory Academy VI                  8-21 BAY 25 STREET    0102 
+Q28329Preparatory Academy for Writers: A College Board S          143-10 SPRINGFIELD BOU0104 
+Q28428York Early College Academy                                  108-35 167 STREET     0104 
+Q28525World Journalism Preparatory: A College Board School        34-65 192 STREET      0104 
+Q28630Young Women's Leadership School, Astoria                    23-15 NEWTOWN AVENUE  0104 
+Q28728The Emerson School                                          108-35 167 STREET     0102 
+Q28929Queens United Middle School                                 229-02 137 AVENUE     0102 
+Q29024A.C.E. Academy for Scholars at the Geraldine Ferraro Campus 55-20 METROPOLITAN AVE0101 
+Q29130Hunters Point Community Middle School                       1-50 51ST AVENUE      0102 
+Q29324Civic Leadership Academy                                    45-10 94TH STREET     0104 
+Q29425BELL Academy                                                18-25 212 STREET      0102 
+Q29529P.S./I.S. 295                                               222-14 JAMAICA AVENUE 0102 
+Q29624Pan American International High School                      45-10 94TH STREET     0104 
+Q29727Hawtree Creek Middle School                                 121-10 ROCKAWAY BOULEV0102 
+Q29924Bard High School Early College Queens                       30-20 THOMSON AVENUE  0104 
+Q30030The 30th Avenue School (G&T Citywide)                       28-37 29 STREET       0102 
+Q30130Academy for Careers in Television and Film                  1-50 51ST AVENUE      0104 
+Q30227Queens High School for Information, Research, and Technology8-21 BAY 25 STREET    0104 
+Q30328The Academy for Excellence through the Arts                 108-55 69 AVENUE      0101 
+Q30524Learners and Leaders                                        378 SENECA AVENUE     0101 
+Q30627New York City Academy for Discovery                         95-16 89TH AVENUE     0101 
+Q30724Pioneer Academy                                             40-20 100TH STREET    0101 
+Q30827Robert H. Goddard High School of Communication Art          138-30 LAFAYETTE STREE0104 
+Q30927Academy of Medical Technology: A College Board School       8-21 BAY 25 STREET    0104 
+Q31028Queens Collegiate: A College Board School                   167-01 GOTHIC DRIVE   0104 
+Q31124Corona Arts and Sciences Academy                            98-11 44TH AVENUE     0102 
+Q31228Jamaica Children's School                                   109-20 UNION HALL STRE0101 
+Q31329Benjamin Franklin High School for Finance & Inform          207- 01 116TH  AVENUE 0104 
+Q31427Epic High School - South                                    121-10 ROCKAWAY BOULEV0104 
+Q31526Business Technology Early College High School               230-17 HILLSIDE AVENUE0104 
+Q31627Queens Explorers Elementary School                          90-07 101ST AVENUE    0101 
+Q31727Waterside Children's Studio School                          190 BEACH 110 STREET  0101 
+Q31827Waterside School For Leadership                             190 BEACH 110 STREET  0102 
+Q31927Village Academy                                             10-45 NAMEOKE STREET  0102 
+Q32327Scholars' Academy                                           320 BEACH 104TH STREET0104 
+Q32427Rockaway Park High School For Environmental Sustainability  100-00 BEACH CHANNEL D0104 
+Q32528Hillside Arts & Letters Academy                             167-01 GOTHIC DRIVE   0104 
+Q32629Cambria Heights Academy                                     188-04 91ST AVENUE    0104 
+Q32729Eagle Academy for Young Men III                             171-10 LINDEN BOULEVAR0104 
+Q32828High School for Community Leadership                        167-01 GOTHIC DRIVE   0104 
+Q32930East Elmhurst Community School                              26-25 97TH STREET     0101 
+Q33024P.S. 330                                                    110-08 NORTHERN BOULEV0101 
+Q33228Redwood Middle School                                       133-25 GUY R BREWER BO0102 
+Q33327Goldie Maple Academy                                        3-65 BEACH 56 STREET  0102 
+Q33427Epic High School - North                                    94-25 117TH STREET    0104 
+Q33828Queens Satellite High School for Opportunity                162-02 HILLSIDE AVENUE0104 
+Q34324The Children's Lab School                                   45-45 42ND STREET     0101 
+Q34479East River Academy                                          15-15 HAZEN STREET    0104 
+Q34928The Queens School for Leadership and Excellence             88-08 164TH STREET    0101 
+Q35028Jamaica Gateway to the Sciences                             167-01 GOTHIC DRIVE   0104 
+Q35127Rockaway Collegiate High School                             100-00 BEACH CHANNEL D0104 
+Q35428P.S. 354                                                    126-10 BEDELL STREET  0101 
+Q35529Collaborative Arts Middle School                            145-00 SPRINGFIELD BOU0102 
+Q35629Community Voices Middle School                              145-00 SPRINGFIELD BOU0102 
+Q35828M.S. 358                                                    88-08 164TH STREET    0102 
+Q36029P.S. 360                                                    199-10 112 AVENUE     0101 
+Q36130The Woodside Community School                               39-07 57th Street     0101 
+Q36227Wave Preparatory Elementary School                          535 BRIAR PLACE       0101 
+Q40027August Martin High School                                   156-10 BAISLEY BOULEVA0104 
+Q41526Benjamin N. Cardozo High School                             57-00 223RD STREET    0104 
+Q42525John Bowne High School                                      63-25 MAIN STREET     0104 
+Q43026Francis Lewis High School                                   58-20 UTOPIA PARKWAY  0104 
+Q43526Martin Van Buren High School                                230-17 HILLSIDE AVENUE0104 
+Q44028Forest Hills High School                                    67-01 110 STREET      0104 
+Q44530William Cullen Bryant High School                           48-10 31 AVENUE       0104 
+Q45030Long Island City High School                                14-30 BROADWAY        0104 
+Q45524Newtown High School                                         48-01 90 STREET       0104 
+Q45724H.S. Arts & Business Yabc                                   105-25 HORACE HARDING 0104 
+Q46025Flushing High School                                        35-01 UNION STREET    0104 
+Q46725Flushing Yabc                                               35-01 UNION STREET    0104 
+Q47527Richmond Hill High School                                   89-30 114 STREET      0104 
+Q48027John Adams High School                                      101-01 ROCKAWAY BOULEV0104 
+Q48524Grover Cleveland High School                                21-27 HIMROD STREET   0104 
+Q48727John Adams Yabc                                             101-01 ROCKAWAY BOULEV0104 
+Q49229Mathematics, Science Research and Technology Magnet         207- 01 116TH  AVENUE 0104 
+Q49526Bayside High School                                         32-24 CORPORAL KENNEDY0104 
+Q49829Humanities & Arts Magnet High School                        207- 01 116TH  AVENUE 0104 
+Q49925The Queens College School for Math, Science and Technology  148-20 REEVES AVENUE  0102 
+Q50130Frank Sinatra School of the Arts High School                35-12 35TH AVENUE     0104 
+Q50230Information Technology High School                          21-16 44TH ROAD       0104 
+Q50528Hillcrest High School                                       160-05 HIGHLAND AVENUE0104 
+Q52024Middle College High School at LaGuardia Community           45-35 VAN DAM STREET  0104 
+Q52525Townsend Harris High School                                 149-11 MELBOURNE AVENU0104 
+Q53024International High School at LaGuardia Community College    45-35 VAN DAM STREET  0104 
+Q54025Queens Academy High School                                  138-11 35 AVENUE      0104 
+Q55024High School for Arts and Business                           105-25 HORACE HARDING 0104 
+Q55530Newcomers High School                                       28-01 41 AVENUE       0104 
+Q56024Robert F. Wagner, Jr. Secondary School for Arts & Techology 47-07 30TH PLACE      0104 
+Q56626Queens High School of Teaching, Liberal Arts & the Sciences 74-20 COMMONWEALTH BLV0104 
+Q57530Academy of American Studies                                 28-04 41 AVENUE       0104 
+Q58030Baccalaureate School for Global Education                   34-12 36 AVENUE       0104 
+Q58524Maspeth High School                                         54-40 74TH STREET     0104 
+Q60024Queens Vocational and Technical High School                 37-02 47 AVENUE       0104 
+Q61024Aviation Career & Technical Education High School           45-30 36 STREET       0104 
+Q62028Thomas A. Edison Career and Technical Education High        165-65 84 AVENUE      0104 
+Q65027HS for Construction Trades, Engineering and Architecture    94-06 104TH STREET    0104 
+Q67025Robert F. Kennedy Community High School                     75-40 PARSONS BOULEVAR0104 
+Q68028Queens Gateway to Health Sciences Secondary School          160-20 GOETHALS AVENUE0104 
+Q68628Queens Metropolitan High School                             91-30 METROPOLITAN AVE0104 
+Q68728Queens High School for the Sciences at York College         94-50 159 STREET      0104 
+Q69028High School for Law Enforcement and Public Safety           116-25 GUY R BREWER BO0104 
+Q72197John F. Kennedy Jr. School                                  57-12 94 STREET       0105 
+Q72424NYCEEC NYC Early Childhood Center 24                        DISTRICT 24           9903 
+Q72626NYCEEC NYC Early Childhood Center 26                        DISTRICT 26           9903 
+Q72727NYCEEC NYC Early Childhood Center 27                        DISTRICT 27           9903 
+Q72828NYCEEC NYC Early Childhood Center 28                        DISTRICT 28           9903 
+Q72929NYCEEC NYC Early Childhood Center 29                        DISTRICT 29           9903 
+Q72A25NYCEEC NYC Early Childhood Center 25                        DISTRICT 25           9903 
+Q73030NYCEEC NYC Early Childhood Center 30                        DISTRICT 30           9903 
+Q74424VOYAGES Preparatory                                         45-10 94TH STREET     0104 
+Q75297Queens Transition Center                                    142-10 LINDEN BOULEVAR0105 
+Q79225North Queens Community High School                          141-25 77TH ROAD      0104 
+Q81197P.S. Q811                                                   61-25 MARATHON PARKWAY0105 
+Q87724The 51 Avenue Academy (The Path To Academic Excellence)     76-05 51 AVENUE       0101 
+Q89628Young Women's Leadership School, Queens                     150-91 87 ROAD        0104 
+Q95079Pathways to Graduation                                      90-01 SUTPHIN BOULEVAR0104 
+Q99397P.S. Q993                                                   85-15 258 STREET      0105 
+QP2424District 24 Pre-K Center                                    68-20 MYRTLE AVENUE   0101 
+QP2525District 25 Pre-K Center                                    14-45 143RD STREET    0101 
+QP2727District 27 Pre-K Center (Curious Young Learn/Queens Explor)125-20 SUTPHIN BOULEVA0101 
+QP2828District 28 Pre-K Center                                    132-10 JAMAICA AVENUE 0101 
+QP2929District 29 Pre-K Center                                    168-42 JAMAICA AVENUE 0101 
+QP3030District 30 Pre-K Center                                    96-10 23 AVENUE       0101 
+R00131P.S. 001 Tottenville                                        58 SUMMIT STREET      0101 
+R00231I.S. R002 George L. Egbert                                  333 MIDLAND AVENUE    0102 
+R00331P.S. 003 The Margaret Gioiosa School                        80 SOUTH GOFF AVENUE  0101 
+R00431P.S. 004 Maurice Wollin                                     200 NEDRA LANE        0101 
+R00531P.S. 005 Huguenot                                           348 DEISIUS STREET    0101 
+R00631P.S. 6 Corporal Allan F. Kivlehan School                    555 PAGE AVENUE       0101 
+R00731I.S. 007 Elias Bernstein                                    1270 HUGUENOT AVENUE  0102 
+R00831P.S. 8 Shirlee Solomon                                      112 LINDENWOOD ROAD   0101 
+R00931Naples Street Elementary School                             1055 TARGEE STREET    0101 
+R01031Fort Hill Collaborative Elementary School                   80 MONROE AVENUE      0101 
+R01131P.S. 11 Thomas Dongan School                                50 JEFFERSON STREET   0101 
+R01331P.S. 013 M. L. Lindemeyer                                   191 VERMONT AVENUE    0101 
+R01631P.S. 016 John J. Driscoll                                   80 MONROE AVENUE      0101 
+R01831P.S. 018 John G. Whittier                                   221 BROADWAY          0101 
+R01931P.S. 019 The Curtis School                                  780 POST AVENUE       0101 
+R02031P.S. 020 Port Richmond                                      161 PARK AVENUE       0101 
+R02131P.S. 21 Margaret Emery-Elm Park                             168 HOOKER PLACE      0101 
+R02231P.S. 022 Graniteville                                       1860 FOREST AVENUE    0101 
+R02331P.S. 023 Richmondtown                                       30 NATICK STREET      0101 
+R02431I.S. 024 Myra S. Barnes                                     225 CLEVELAND AVENUE  0102 
+R02597South Richmond High School I.S./P.S. 25                     6581 HYLAN BOULEVARD  0105 
+R02631P.S. 026 The Carteret School                                4108 VICTORY BOULEVARD0101 
+R02731I.S. 027 Anning S. Prall                                    11 CLOVE LAKE PLACE   0102 
+R02831The Eagle Academy for Young Men of Staten Island            101 WARREN STREET     0102 
+R02931P.S. 029 Bardwell                                           1581 VICTORY BOULEVARD0101 
+R03031P.S. 030 Westerleigh                                        200 WARDWELL AVENUE   0101 
+R03131P.S. 031 William T. Davis                                   55 LAYTON AVENUE      0101 
+R03231P.S. 032 The Gifford School                                 232 BARLOW AVENUE     0101 
+R03431I.S. 034 Tottenville                                        528 ACADEMY AVENUE    0102 
+R03531P.S. 35 The Clove Valley School                             60 FOOTE AVENUE       0101 
+R03631P.S. 036 J. C. Drumgoole                                    255 IONIA AVENUE      0101 
+R03797P.S. R037                                                   15 FAIRFIELD STREET   0105 
+R03831P.S. 038 George Cromwell                                    421 LINCOLN AVENUE    0101 
+R03931P.S. 39 Francis J. Murphy Jr.                               71 SAND LANE          0101 
+R04131The Stephanie A. Vierno School                              216 CLAWSON STREET    0101 
+R04231P.S. 042 Eltingville                                        380 GENESEE AVENUE    0101 
+R04431P.S. 044 Thomas C. Brown                                    80 MAPLE PARKWAY      0101 
+R04531P.S. 045 John Tyler                                         58 LAWRENCE AVENUE    0101 
+R04631P.S. 046 Albert V. Maniscalco                               41 REID AVENUE        0101 
+R04731CSI High School for International Studies                   100 ESSEX DRIVE       0104 
+R04831P.S. 048 William G. Wilcox                                  1050 Targee Street    0102 
+R04931I.S. 49 Berta A. Dreyfus                                    101 WARREN STREET     0102 
+R05031P.S. 050 Frank Hankinson                                    200 ADELAIDE AVENUE   0101 
+R05131I.S. 051 Edwin Markham                                      20 HOUSTON STREET     0102 
+R05231P.S. 052 John C. Thompson                                   450 BUEL AVENUE       0101 
+R05331P.S. 053 The Barbara Esselborn School                       330 DURANT AVENUE     0101 
+R05431P.S. 054 Charles W. Leng                                    1060 WILLOWBROOK ROAD 0101 
+R05531P.S. 055 Henry M. Boehm                                     54 OSBORNE STREET     0101 
+R05631P.S. 56 The Louis Desario School                            250 KRAMER AVENUE     0101 
+R05731P.S. 057 Hubert H. Humphrey                                 140 PALMA DRIVE       0101 
+R05831Space Shuttle Columbia School                               77 MARSH AVENUE       0101 
+R05931The Harbor View School                                      300 Richmond Terrace  0101 
+R06031P.S. 060 Alice Austen                                       55 MERRILL AVENUE     0101 
+R06131I.S. 061 William A Morris                                   445 CASTLETON AVENUE  0102 
+R06231The Kathleen Grimm School for Leadership and Susta          644 Bloomingdale Road 0101 
+R06331Marsh Avenue School for Expeditionary Learning              100 ESSEX DRIVE       0102 
+R06431Gaynor McCown Expeditionary Learning School                 100 ESSEX DRIVE       0104 
+R06531P.S. 65 The Academy of Innovative Learning                  98 GRANT STREET       0101 
+R06831Port Richmond School for Visionary Learning                 1625 FOREST AVENUE    0101 
+R06931P.S. 069 Daniel D. Tompkins                                 144 KEATING PLACE     0101 
+R07231I.S. 072 Rocco Laurie                                       33 FERNDALE AVENUE    0102 
+R07431P.S. 74 Future Leaders Elementary School                    211 DANIEL LOW TERRACE0101 
+R07531I.S. 075 Frank D. Paulo                                     455 HUGUENOT AVENUE   0102 
+R07831P.S. 78                                                     100 TOMPKINS AVENUE   0101 
+R08031The Michael J. Petrides School                              715 OCEAN TERRACE     0104 
+R37397P.S. R373                                                   91 HENDERSON AVENUE   0105 
+R44031New Dorp High School                                        465 NEW DORP LANE     0104 
+R44531Port Richmond High School                                   85 ST JOSEPHS AVENUE  0104 
+R45031Curtis High School                                          105 HAMILTON AVENUE   0104 
+R45531Tottenville High School                                     100 LUTEN AVENUE      0104 
+R46031Susan E. Wagner High School                                 1200 MANOR ROAD       0104 
+R47031Concord High School                                         109 RHINE AVENUE      0104 
+R60031Ralph R. McKee Career and Technical Education High          290 ST MARKS PLACE    0104 
+R60531Staten Island Technical High School                         485 CLAWSON STREET    0104 
+R60731Staten Island Yabc                                          100 LUTEN AVENUE      0104 
+R72197The Richard H. Hungerford School                            155 TOMPKINS AVENUE   0105 
+R73131NYCEEC NYC Early Childhood Center 31                        DISTRICT 31           9903 
+R86131Staten Island School of Civic Leadership                    280 REGIS DRIVE       0102 
+RP3131District 31 Pre-K Center                                    120 STUYVESANT PLACE  0101 
+X00107P.S. 001 Courtlandt School                                  335 EAST 152 STREET   0101 
+X00310P.S. 3 Raul Julia Micro Society                             2100 LAFONTAINE AVENUE0102 
+X00409P.S./M.S. 004 Crotona Park West                             1701 FULTON AVENUE    0102 
+X00507P.S. 5 Port Morris                                          564 JACKSON AVENUE    0102 
+X00612P.S. 006 West Farms                                         1000 EAST TREMONT AVEN0101 
+X00710Milton Fein School                                          3201 KINGSBRIDGE AVENU0101 
+X00810P.S. 008 Isaac Varian                                       3010 BRIGGS AVENUE    0101 
+X00910P.S. 9 Ryer Avenue Elementary School                        230 EAST 183 STREET   0101 
+X01097P.S. X010                                                   2750 LAFAYETTE AVENUE 0105 
+X01109P.S. 011 Highbridge                                         1257 OGDEN AVENUE     0101 
+X01297P.S. X012 Lewis and Clark School                            2555 TRATMAN AVENUE   0105 
+X01408P.S. X014 Senator John Calandra                             3041 BRUCKNER BOULEVAR0101 
+X01510P.S. X015 Institute for Environmental Learning              2195 ANDREWS AVENUE   0102 
+X01611P.S. 016 Wakefield                                          4550 CARPENTER AVENUE 0101 
+X01797P.S. X017                                                   778 FOREST AVENUE     0105 
+X01807P.S. 018 John Peter Zenger                                  502 MORRIS AVENUE     0101 
+X01911P.S. 019 Judith K. Weiss                                    4318 KATONAH AVENUE   0102 
+X02010P.S./M.S. 20 P.O.George J. Werdann, III                     3050 WEBSTER AVENUE   0102 
+X02111P.S. 021 Philip H. Sheridan                                 715 EAST 225 STREET   0101 
+X02209J.H.S. 022 Jordan L. Mott                                   270 EAST 167 STREET   0102 
+X02310P.S. 023 The New Children's School                          2151 WASHINGTON AVENUE0101 
+X02410P.S. 024 Spuyten Duyvil                                     660 WEST 236 STREET   0101 
+X02507P.S. 025 Bilingual School                                   811 EAST 149 STREET   0101 
+X02809P.S. 028 Mount Hope                                         1861 ANTHONY AVENUE   0101 
+X02907P.S./M.S. 029 Melrose School                                758 COURTLANDT AVENUE 0102 
+X03007P.S. 030 Wilton                                             510 EAST 141 STREET   0101 
+X03107P.S./M.S. 031 The William Lloyd Garrison                    250 EAST 156 STREET   0102 
+X03210P.S. 032 Belmont                                            690 EAST 183 STREET   0101 
+X03310P.S. 033 Timothy Dwight                                     2424 JEROME AVENUE    0101 
+X03509P.S. 035 Franz Siegel                                       261 EAST 163 STREET   0101 
+X03608P.S. 036 Unionport                                          1070 CASTLE HILL AVENU0101 
+X03710P.S. X037 - Multiple Intelligence School                    360 WEST 230 STREET   0102 
+X04111P.S. 041 Gun Hill Road                                      3352 OLINVILLE AVENUE 0101 
+X04209P.S. 042 Claremont                                          1537 WASHINGTON AVENUE0101 
+X04307P.S. 043 Jonas Bronck                                       165 BROWN PLACE       0101 
+X04412P.S. 044 David C. Farragut                                  1825 PROSPECT AVENUE  0101 
+X04510Thomas C. Giordano Middle School 45                         2502 LORILLARD PLACE  0102 
+X04610P.S. 046 Edgar Allan Poe                                    279 EAST 196 STREET   0101 
+X04712P.S. 047 John Randolph                                      1794 EAST 172 STREET  0101 
+X04808P.S. 048 Joseph R. Drake                                    1290 SPOFFORD AVENUE  0101 
+X04907P.S. 049 Willis Avenue                                      383 EAST 139 STREET   0101 
+X05110P.S. 051 Bronx New School                                   695 EAST 182ND STREET 0101 
+X05309P.S. 053 Basheer Quisim                                     360 EAST 168 STREET   0101 
+X05410P.S./I.S. 54                                                2703 WEBSTER AVENUE   0101 
+X05509P.S. 055 Benjamin Franklin                                  450 SAINT PAUL'S PLACE0101 
+X05610P.S. 056 Norwood Heights                                    341 EAST 207 STREET   0101 
+X05712P.S. 057 Crescent                                           2111 CROTONA AVENUE   0101 
+X05809P.S. 058                                                    459 EAST 176 STREET   0101 
+X05910P.S. 059 The Community School of Technology                 2185 BATHGATE AVENUE  0101 
+X06112P.S. 061 Francisco Oller                                    1550 CROTONA PARK EAST0101 
+X06208P.S. 062 Inocensio Casanova                                 660 FOX STREET        0101 
+X06309P.S. 063 Author's Academy                                   1260 FRANKLIN AVENUE  0101 
+X06507P.S. 065 Mother Hale Academy                                677 EAST 141 STREET   0101 
+X06612P.S. 066 School of Higher Expectations                      1001 JENNINGS STREET  0101 
+X06712P.S. 067 Mohegan School                                     2024 MOHEGAN AVENUE   0101 
+X06811P.S. 068 Bronx                                              4011 MONTICELLO AVENUE0101 
+X06908P.S. 069 Journey Prep School                                560 THIERIOT AVENUE   0101 
+X07009P.S. 070 Max Schoenfeld                                     1691 WEEKS AVENUE     0101 
+X07108P.S. 071 Rose E. Scala                                      3040 ROBERTS AVENUE   0102 
+X07208P.S. 072 Dr. William Dorney                                 2951 DEWEY AVENUE     0101 
+X07309P.S. 073 Bronx                                              1020 ANDERSON AVENUE  0101 
+X07508P.S. 75 School of Research and Discovery                    984 FAILE STREET      0101 
+X07611P.S. 076 The Bennington School                              900 ADEE AVENUE       0101 
+X07710Bedford Park Elementary School                              3177 WEBSTER AVENUE   0101 
+X07811P.S. 078 Anne Hutchinson                                    1400 NEEDHAM AVENUE   0101 
+X08010J.H.S. 080 The Mosholu Parkway                              149 EAST MOSHOLU PKWY 0102 
+X08110P.S. 081 Robert J. Christen                                 5550 RIVERDALE AVENUE 0101 
+X08311P.S. 083 Donald Hertz                                       950 RHINELANDER AVENUE0102 
+X08510P.S. 085 Great Expectations                                 2400 MARION AVENUE    0101 
+X08610P.S. 086 Kingsbridge Heights                                2756 RESERVOIR AVENUE 0101 
+X08711P.S. 087 Bronx                                              1935 BUSSING AVENUE   0101 
+X08809P.S. X088 - S. Silverstein Little Sparrow School            1340 SHERIDAN AVENUE  0101 
+X08911P.S. 089 Bronx                                              980 MACE AVENUE       0102 
+X09110P.S. 091 Bronx                                              2200 AQUEDUCT AVENUE  0101 
+X09212P.S. 092 Bronx                                              700 EAST 179 STREET   0101 
+X09308P.S. 093 Albert G. Oliver                                   1535 STORY AVENUE     0101 
+X09410P.S. 094 Kings College School                               3530 KINGS COLLEGE PLA0101 
+X09510P.S. 095 Sheila Mencher                                     3961 HILLMAN AVENUE   0102 
+X09611P.S. 096 Richard Rodgers                                    2385 OLINVILLE AVENUE 0101 
+X09711P.S. 097 Bronx                                              1375 MACE AVENUE      0101 
+X09812J.H.S. 098 Herman Ridder                                    1619 BOSTON ROAD      0102 
+X10008P.S. 100 Isaac Clason                                       800 TAYLOR AVENUE     0101 
+X10108M.S. X101 Edward R. Byrne                                   2750 LAFAYETTE AVENUE 0102 
+X10311P.S. 103 Hector Fontanez                                    4125 CARPENTER AVENUE 0101 
+X10511P.S. 105 Sen Abraham Bernstein                              725 BRADY AVENUE      0101 
+X10611P.S. 106 Parkchester                                        1514 OLMSTEAD AVENUE  0101 
+X10708P.S. 107                                                    1695 SEWARD AVENUE    0101 
+X10811P.S. 108 Philip J. Abinanti                                 1166 NEILL AVENUE     0101 
+X10909P.S. 109 Sedgwick                                           1771 POPHAM AVENUE    0101 
+X11009P.S. 110 Theodore Schoenfeld                                580 CROTONA PARK SOUTH0101 
+X11111P.S. 111 Seton Falls                                        3740 BAYCHESTER AVENUE0101 
+X11211P.S. 112 Bronxwood                                          1925 SCHIEFFELIN AVENU0101 
+X11409P.S. X114 - Luis Llorens Torres Schools                     1155 CROMWELL AVENUE  0101 
+X11709I.S. 117 Joseph H. Wade                                     1865 MORRIS AVENUE    0102 
+X11810J.H.S. 118 William W. Niles                                 577 EAST 179 STREET   0102 
+X11908P.S. 119                                                    1075 PUGSLEY AVENUE   0101 
+X12111P.S. 121 Throop                                             2750 THROOP AVENUE    0101 
+X12308J.H.S. 123 James M. Kieran                                  1025 MORRISON AVENUE  0102 
+X12508J.H.S. 125 Henry Hudson                                     1111 PUGSLEY AVENUE   0102 
+X12609P.S. 126 Dr Marjorie H Dunbar                               175 WEST 166 STREET   0101 
+X12711J.H.S. 127 The Castle Hill                                  1560 PURDY STREET     0102 
+X12809Mott Hall III                                               580 CROTONA PARK SOUTH0102 
+X12912M.S. 129 Academy for Independent Learning and Lead          2055 MAPES AVENUE     0102 
+X13008P.S. 130 Abram Stevens Hewitt                               750 PROSPECT AVENUE   0101 
+X13108J.H.S. 131 Albert Einstein                                  885 BOLTON AVENUE     0102 
+X13209P.S. 132 Garret A. Morgan                                   1245 WASHINGTON AVENUE0101 
+X13412P.S. 134 George F. Bristow                                  1330 BRISTOW STREET   0101 
+X13808P.S. 138 Samuel Randall                                     2060 LAFAYETTE AVENUE 0101 
+X14008P.S. X140 The Eagle School                                  916 EAGLE AVENUE      0101 
+X14110Riverdale / Kingsbridge Academy (MS / HS 141)               660 WEST 237 STREET   0104 
+X14411J.H.S. 144 Michelangelo                                     2545 GUNTHER AVENUE   0102 
+X14509J.H.S. 145 Arturo Toscanini                                 1000 TELLER AVENUE    0102 
+X14608P.S. 146 Edward Collins                                     968 CAULDWELL AVENUE  0101 
+X15012P.S. 150 Charles James Fox                                  920 EAST 167 STREET   0101 
+X15107J.H.S. 151 Lou Gehrig                                       250 EAST 156 STREET   0102 
+X15208P.S. 152 Evergreen                                          1007 EVERGREEN AVENUE 0101 
+X15311P.S. 153 Helen Keller                                       650 BAYCHESTER AVENUE 0101 
+X15407P.S. 154 Jonathan D. Hyatt                                  333 EAST 135 STREET   0101 
+X15707P.S. 157 Grove Hill                                         757 CAULDWELL AVENUE  0101 
+X15910P.S. 159 Luis Munoz Marin Biling                            2315 WASHINGTON AVENUE0101 
+X16011P.S. 160 Walt Disney                                        4140 HUTCHINSON RIVER 0101 
+X16107P.S. 161 Juan Ponce De Leon School                          628 TINTON AVENUE     0101 
+X16207J.H.S. 162 Lola Rodriguez De Tio                            600 SAINT ANN'S AVENUE0102 
+X16309P.S. 163 Arthur A. Schomburg                                2075 WEBSTER AVENUE   0101 
+X16897P.S. 168                                                    339 MORRIS AVENUE     0105 
+X16911Baychester Academy                                          3500 EDSON AVENUE     0101 
+X17009P.S. 170                                                    1598 TOWNSEND AVENUE  0101 
+X17511P.S. 175 City Island                                        200 CITY ISLAND AVENUE0102 
+X17697P.S. X176                                                   850 BAYCHESTER AVENUE 0105 
+X17811P.S. 178 - Dr. Selman Waksman                               850 BAYCHESTER AVENUE 0101 
+X17907P.S. 179                                                    468 EAST 140 STREET   0101 
+X18011M.S. 180 Dr. Daniel Hale Williams                           700 BAYCHESTER AVENUE 0102 
+X18111I.S. 181 Pablo Casals                                       800 BAYCHESTER AVENUE 0102 
+X18208P.S. 182                                                    601 STICKBALL BOULEVAR0101 
+X18697P186X Walter J. Damrosch School                             750 JENNINGS STREET   0105 
+X18897P.S. X188                                                   770 GROTE STREET      0105 
+X18911Cornerstone Academy for Social Action                       3441 STEENWICK AVENUE 0101 
+X19012E.S.M.T- I.S. 190                                           1550 CROTONA PARK EAST0102 
+X19411P.S./M.S. 194                                               2365 WATERBURY AVENUE 0102 
+X19512P.S. 195                                                    1250 WARD AVENUE      0101 
+X19612P.S. 196                                                    1250 WARD AVENUE      0101 
+X19909P.S. 199X - The Shakespeare School                          1449 SHAKESPEARE AVENU0101 
+X20409P.S. 204 Morris Heights                                     1780 DR. MARTIN LUTHER0101 
+X20510P.S. 205 Fiorello Laguardia                                 2475 SOUTHERN BOULEVAR0101 
+X20610I.S. 206 Ann Mersereau                                      2280 AQUEDUCT AVENUE  0102 
+X20710P.S. 207                                                    3030 GODWIN TERRACE   0101 
+X20910P.S. 209                                                    313 EAST 183RD STREET 0101 
+X21112P.S. 211                                                    1919 PROSPECT AVENUE  0102 
+X21212P.S. 212                                                    1180 TINTON AVENUE    0102 
+X21310Bronx Engineering and Technology Academy                    99 TERRACE VIEW AVENUE0104 
+X21412P.S. 214                                                    1970 WEST FARMS ROAD  0102 
+X21509Kappa                                                       3630 THIRD AVENUE     0102 
+X21712School of Performing Arts                                   977 FOX STREET        0102 
+X21809P.S./I.S. 218 Rafael Hernandez Dual Language Magnet         1220 GERARD AVENUE    0102 
+X21909I.S. 219 New Venture School                                 3630 THIRD AVENUE     0102 
+X22107South Bronx Preparatory: A College Board School             360 EAST 145 STREET   0104 
+X22307M.S. 223 The Laboratory School of Finance and Technology    360 EAST 145 STREET   0104 
+X22407P.S./I.S. 224                                               345 BROOK AVENUE      0102 
+X22510Theatre Arts Production Company School                      2225 WEBSTER AVENUE   0104 
+X22610P.S. 226                                                    1950 SEDGWICK AVENUE  0101 
+X22709Bronx Collegiate Academy                                    240 EAST 172 STREET   0104 
+X22810Jonas Bronck Academy                                        400 EAST FORDHAM ROAD 0102 
+X22909I.S. 229 Roland Patterson                                   275 HARLEM RIVER PARK 0102 
+X23109Eagle Academy for Young Men                                 4143 THIRD AVENUE     0104 
+X23209I.S. 232                                                    1700 MACOMBS ROAD     0102 
+X23609P.S. 236 Langston Hughes                                    1871 WALTON AVENUE    0101 
+X23710The Marie Curie School for Medicine, Nursing, and           120 WEST 231 STREET   0104 
+X24109Urban Assembly School for Applied Math and Science          1595 BATHGATE AVENUE  0104 
+X24212Mott Hall V                                                 1551 EAST 172ND STREET0104 
+X24310West Bronx Academy for the Future                           500 EAST FORDHAM ROAD 0104 
+X24410The New School for Leadership and Journalism                120 WEST 231 STREET   0102 
+X24610P.S. 246 Poe Center                                         2641 GRAND CONCOURSE  0101 
+X24812Metropolitan High School, The                               1180 REV. J.A. POLITE 0104 
+X24911Bronx Health Sciences High School                           750 BAYCHESTER AVENUE 0104 
+X25009Eximius College Preparatory Academy: A College Board School 1363 FULTON AVENUE    0104 
+X25112Explorations Academy                                        1619 BOSTON ROAD      0104 
+X25209Mott Hall Bronx High School                                 1595 BATHGATE AVENUE  0104 
+X25311Bronx High School for Writing and Communication Arts        800 EAST GUN HILL ROAD0104 
+X25410I.S. 254                                                    2452 WASHINGTON AVENUE0102 
+X25907H.E.R.O. High (Health, Education, & Research Occupations HS)455 SOUTHERN BLVD     0104 
+X26009Bronx Center for Science and Mathematics                    1363 FULTON AVENUE    0104 
+X26309Validus Preparatory Academy: An Expeditionary Learning      1595 BATHGATE AVENUE  0104 
+X26410Bronx Academy for Software Engineering (BASE)               2474 CROTONA AVENUE   0104 
+X26511Bronx Lab School                                            800 EAST GUN HILL ROAD0104 
+X26712Bronx Latin                                                 800 HOME STREET       0104 
+X26810Kingsbridge International High School                       2780 RESERVOIR AVENUE 0104 
+X26908Bronx Studio School for Writers and Artists                 928 SIMPSON STREET    0104 
+X27011Academy for Scholarship & Entrepreneurship:A College        921 EAST 228TH STREET 0104 
+X27112East Bronx Academy for the Future                           1716 SOUTHERN BOULEVAR0104 
+X27312Frederick Douglass Academy V. Middle School                 2111 CROTONA AVENUE   0102 
+X27409The New American Academy at Roberto Clemente State          275 HARLEM RIVER PARK 0101 
+X27511High School of Computers and Technology                     800 EAST GUN HILL ROAD0104 
+X27609Leadership Institute                                        1701 FULTON AVENUE    0104 
+X27707P.S. 277                                                    519 ST ANNS AVENUE    0101 
+X27910P.S. 279 Captain Manuel Rivera, Jr.                         2100 WALTON AVENUE    0102 
+X28010P.S./M.S. 280 Mosholu Parkway                               3202 STEUBEN AVENUE   0102 
+X28208Women's Academy of Excellence                               456 WHITE PLAINS ROAD 0104 
+X28410Bronx School of Law and Finance                             99 TERRACE VIEW AVENUE0104 
+X28612Fannie Lou Hamer Middle School                              1001 JENNINGS STREET  0102 
+X28711The Forward School                                          3710 BARNES AVENUE    0102 
+X28811Collegiate Institute for Math and Science                   925 ASTOR AVENUE      0104 
+X28911The Young Scholars Academy of The Bronx                     3710 BARNES AVENUE    0102 
+X29011Bronx Academy of Health Careers                             800 EAST GUN HILL ROAD0104 
+X29110P.S. 291                                                    2195 ANDREWS AVENUE   0101 
+X29308Renaissance High School for Musical Theater & Technology    3000 EAST TREMONT AVEN0104 
+X29409The Walton Avenue School                                    1425 WALTON AVENUE    0101 
+X29607South Bronx Academy for Applied Media                       778 FOREST AVENUE     0102 
+X29709Morris Academy for Collaborative Studies                    1110 BOSTON ROAD      0104 
+X29807Academy of Public Relations                                 778 FOREST AVENUE     0102 
+X29911Astor Collegiate Academy                                    925 ASTOR AVENUE      0104 
+X30012The School of Science and Applied Learning                  2050 PROSPECT AVENUE  0101 
+X30108M.S. 301 Paul L. Dunbar                                     890 CAULDWELL AVENUE  0102 
+X30208M.S. 302 Luisa Dessus Cruz                                  681 KELLY STREET      0102 
+X30309I.S. X303 Leadership & Community Service                    1700 MACOMBS ROAD     0102 
+X30408P.S. 304 Early Childhood School                             2750 LAFAYETTE AVENUE 0101 
+X30508Pablo Neruda Academy                                        1980 LAFAYETTE AVENUE 0104 
+X30610P.S. 306                                                    40 WEST TREMONT AVENUE0101 
+X30710Luisa Pineiro Fuentes School of Science and Discovery       124 EAMES PLACE       0101 
+X30810Bronx Dance Academy School                                  3617 BAINBRIDGE AVENUE0102 
+X31010P.S. 310 Marble Hill                                        260 W KINGSBRIDGE RD  0101 
+X31109Lucero Elementary School                                    1425 WALTON AVENUE    0101 
+X31208Millennium Art Academy                                      1980 LAFAYETTE AVENUE 0104 
+X31309I.S. 313 School of Leadership Development                   1600 WEBSTER AVENUE   0102 
+X31412Fairmont Neighborhood School                                1550 VYSE AVENUE      0101 
+X31510P.S. 315 Lab School                                         2246 JEROME AVENUE    0102 
+X31612Kappa III                                                   2055 MAPES AVENUE     0102 
+X31812I.S. X318 Math, Science & Technology Through Arts           1919 PROSPECT AVENUE  0102 
+X31910Providing Urban Learners Success In Education High School   560 EAST 179 STREET   0104 
+X32008Pelham Lab High School                                      3000 EAST TREMONT AVEN0104 
+X32112Crotona Academy High School                                 1211 SOUTHERN BOULEVAR0104 
+X32309Bronx Writing Academy                                       270 EAST 167 STREET   0102 
+X32409Bronx Early College Academy for Teaching & Learning         250 EAST 164 STREET   0104 
+X32509Urban Science Academy                                       1000 TELLER AVENUE    0102 
+X32611Bronx Green Middle School                                   2441 WALLACE AVENUE   0102 
+X32709Comprehensive Model School Project M.S. 327                 1501 JEROME AVENUE    0104 
+X32809New Millennium Business Academy Middle School               1000 TELLER AVENUE    0102 
+X32909DreamYard Preparatory School                                240 EAST 172 STREET   0104 
+X33110The Bronx School of Young Leaders                           40 WEST TREMONT AVENUE0102 
+X33208Holcombe L. Rucker School of Community Research             965 LONGWOOD AVENUE   0104 
+X33308P.S. 333 - The Museum School                                888 REV J A POLITE AVE0101 
+X33407International Community High School                         345 BROOK AVENUE      0104 
+X33508The Academy of the Arts                                     888 REV J A POLITE AVE0101 
+X33708The School for Inquiry and Social Justice                   1025 MORRISON AVENUE  0102 
+X33909I.S. 339                                                    1600 WEBSTER AVENUE   0102 
+X34010P.S. 340                                                    25 WEST 195 STREET    0101 
+X34112Accion Academy                                              1825 PROSPECT AVENUE  0102 
+X34210International School for Liberal Arts                       2780 RESERVOIR AVENUE 0104 
+X34307Academy of Applied Mathematics and Technology               345 BROOK AVENUE      0102 
+X34410Ampark Neighborhood                                         3961 HILLMAN AVENUE   0101 
+X34808Schuylerville Preparatory High School                       3000 EAST TREMONT AVEN0104 
+X34908Bronx River High School                                     3000 EAST TREMONT AVEN0104 
+X35009New Directions Secondary School                             240 EAST 172 STREET   0104 
+X35110Bronx Collaborative High School                             100 WEST MOSHOLU PARKW0104 
+X35297The Vida Bogart School for All Children                     1330 BRISTOW STREET   0105 
+X35310World View High School                                      100 WEST MOSHOLU PARKW0104 
+X35511Bronx Alliance Middle School                                3750 BAYCHESTER AVENUE0102 
+X35711Young Voices Academy of the Bronx                           800 LYDIG AVENUE      0101 
+X35907Concourse Village Elementary School                         750 CONCOURSE VILLAGE 0101 
+X36010P.S. 360                                                    2880 KINGSBRIDGE TERRA0101 
+X36109The Highbridge Green School                                 200 West 167th Street 0102 
+X36310Academy For Personal Leadership And Excellence              120 EAST 184 STREET   0102 
+X36509Academy for Language and Technology                         1700 MACOMBS ROAD     0104 
+X36708Archimedes Academy for Math, Science and Technolog          456 WHITE PLAINS ROAD 0104 
+X36810In-Tech Academy (M.S. / High School 368)                    2975 TIBBETT AVENUE   0104 
+X36907Young Leaders Elementary School                             468 EAST 140 STREET   0101 
+X37011School of Diplomacy                                         3710 BARNES AVENUE    0102 
+X37108Urban Institute of Mathematics                              650 HOLLYWOOD AVENUE  0102 
+X37212Urban Assembly School for Wildlife Conservation             2024 MOHEGAN AVENUE   0104 
+X37410Knowledge and Power Prep. Academy International (KAPPA)     500 EAST FORDHAM ROAD 0104 
+X37508The Bronx Mathematics Preparatory School                    456 WHITE PLAINS ROAD 0102 
+X37608Antonia Pantoja Preparatory Academy: A College Board School 1980 LAFAYETTE AVENUE 0104 
+X37708Bronx Community High School                                 1980 LAFAYETTE AVENUE 0104 
+X37907Jill Chaifetz Transfer High School                          778 FOREST AVENUE     0104 
+X38107Bronx Haven High School                                     333 EAST 151 STREET   0104 
+X38210Elementary School for Math, Science, and Technology         125 EAST 181 STREET   0101 
+X38312Emolior Academy                                             1970 WEST FARMS ROAD  0102 
+X38412Entrada Academy                                             977 FOX STREET        0102 
+X38610School for Environmental Citizenship                        125 EAST 181 STREET   0101 
+X38812Pan American International High School at Monroe            1300 BOYNTON AVENUE   0104 
+X39010M.S. 390                                                    1930 ANDREWS AVENUE   0102 
+X39110The Angelo Patri Middle School                              2225 WEBSTER AVENUE   0102 
+X39208Bronx Delta School                                          650 HOLLYWOOD AVENUE  0101 
+X39610P.S. 396                                                    1930 ANDREWS AVENUE   0101 
+X39710English Language Learners and International Support Prep    99 TERRACE VIEW AVENUE0104 
+X40309Bronx International High School                             1110 BOSTON ROAD      0104 
+X40409School for Excellence                                       1110 BOSTON ROAD      0104 
+X40508Herbert H. Lehman High School                               3000 EAST TREMONT AVEN0104 
+X40808Herbert H. Lehman Yabc                                      3000 EAST TREMONT AVEN0104 
+X41209Bronx High School of Business                               240 EAST 172 STREET   0104 
+X41309Bronx High School for Medical Science                       240 EAST 172 STREET   0104 
+X41711C Columbus Hs Yabc                                          925 ASTOR AVENUE      0104 
+X41811Bronx High School for the Visual Arts                       2040 ANTIN PL         0104 
+X42408The Hunts Point School                                      730 BRYANT AVENUE     0102 
+X42707Community School for Social Justice                         350 GERARD AVENUE     0104 
+X42812Learning To Work Yabc At Monroe Academy                     1300 BOYNTON AVENUE   0104 
+X43208Bronx Bridges High School                                   1980 LAFAYETTE AVENUE 0104 
+X43310High School for Teaching and the Professions                2780 RESERVOIR AVENUE 0104 
+X43410Belmont Preparatory High School                             500 EAST FORDHAM ROAD 0104 
+X43710Fordham High School for the Arts                            500 EAST FORDHAM ROAD 0104 
+X43810Fordham Leadership Academy for Business and Technology      500 EAST FORDHAM ROAD 0104 
+X43910Bronx High School for Law and Community Service             500 EAST FORDHAM ROAD 0104 
+X44010DeWitt Clinton High School                                  100 WEST MOSHOLU PARKW0104 
+X44210Celia Cruz Bronx High School of Music, The                  2780 RESERVOIR AVENUE 0104 
+X44309The Family School                                           1116 SHERIDAN AVENUE  0101 
+X44510Bronx High School of Science                                75 WEST 205 STREET    0104 
+X44612Arturo A. Schomburg Satellite Academy Bronx                 1010 REV. J. A. POLITE0104 
+X44710Creston Academy                                             125 EAST 181 STREET   0102 
+X44808Soundview Academy for Culture and Scholarship               885 BOLTON AVENUE     0102 
+X44909Grant Avenue Elementary School                              250 EAST 164 STREET   0101 
+X45208Bronx Guild                                                 1980 LAFAYETTE AVENUE 0104 
+X45409Science and Technology Academy: A Mott Hall School          250 EAST 164 STREET   0102 
+X45511Harry S Truman High School                                  750 BAYCHESTER AVENUE 0104 
+X45607Alfred E. Smith Campus YABC                                 333 EAST 151 STREET   0104 
+X45709Sheridan Academy for Young Leaders                          1116 SHERIDAN AVENUE  0101 
+X45812Samara Community School                                     1550 VYSE AVENUE      0101 
+X45910East Fordham Academy for the Arts                           120 EAST 184 STREET   0102 
+X46211Cornerstone Academy For Social Action Middle Sch. (CASA)    3441 STEENWICK AVENUE 0102 
+X46312Urban Scholars Community School                             1180 TINTON AVENUE    0101 
+X46708Mott Hall Community School                                  650 HOLLYWOOD AVENUE  0102 
+X46811Pelham Acad. Of Academics & Community Engagement            2441 WALLACE AVENUE   0102 
+X46997P469X - The Bronx School for Continuous Learners            3177 WEBSTER AVENUE   0105 
+X47307Mott Haven Village Preparatory High School                  701 ST. ANNS AVENUE   0104 
+X47710Marble Hill High School for International Studies           99 TERRACE VIEW AVENUE0104 
+X47812The Cinema School                                           1551 EAST 172ND STREET0104 
+X47912Bronx Career and College Preparatory High School            800 HOME STREET       0104 
+X48012Bronx Regional High School                                  1010 REV. J. A. POLITE0104 
+X48111The STEAM Bridge School                                     1684 WHITE PLAINS ROAD0101 
+X48311The Matilda Avenue School                                   4520 MATILDA AVENUE   0101 
+X49507University Heights Secondary School                         701 ST. ANNS AVENUE   0104 
+X49811P.S./M.S. 11X498 - VAN NEST ACADEMY                         1640 BRONXDALE AVE    0102 
+X50007Hostos-Lincoln Academy of Science                           600 SAINT ANN'S AVENUE0104 
+X50310Walton Yabc                                                 2780 RESERVOIR AVENUE 0104 
+X50410Kennedy Yabc                                                99 TERRACE VIEW AVENUE0104 
+X50509Bronx School for Law, Government and Justice                244 EAST 163 STREET   0104 
+X50708Stevenson Yabc                                              1980 LAFAYETTE AVENUE 0104 
+X50811Bronxdale High School                                       925 ASTOR AVENUE      0104 
+X50911High School of Language and Innovation                      925 ASTOR AVENUE      0104 
+X51112Bronx Envision Academy                                      1619 BOSTON ROAD      0104 
+X51311New World High School                                       921 EAST 228TH STREET 0104 
+X51411The Bronxwood Preparatory Academy                           921 EAST 228TH STREET 0104 
+X51709Frederick Douglass Academy III Secondary School             3630 THIRD AVENUE     0104 
+X51908Felisa Rincon de Gautier Institute for Law and Public Policy1440 STORY AVENUE     0104 
+X52112The Metropolitan Soundview High School                      1300 BOYNTON AVENUE   0104 
+X52207Bronx Design and Construction Academy                       333 EAST 151 STREET   0104 
+X52410Crotona International High School                           2474 CROTONA AVENUE   0104 
+X52509Bronx Leadership Academy High School                        1710 WEBSTER AVENUE   0104 
+X52707Bronx Leadership Academy II High School                     730 CONCOURSE VILLAGE 0104 
+X52911One World Middle School at Edenwald                         3750 BAYCHESTER AVENUE0102 
+X53008Banana Kelly High School                                    965 LONGWOOD AVENUE   0104 
+X53112Archer Elementary School                                    1827 ARCHER STREET    0101 
+X53211Baychester Middle School                                    3750 BAYCHESTER AVENUE0102 
+X53612P.S. 536                                                    1827 ARCHER STREET    0101 
+X53708Bronx Arena High School                                     1440 STORY AVENUE     0104 
+X54211Pelham Preparatory Academy                                  925 ASTOR AVENUE      0104 
+X54309High School for Violin and Dance                            1110 BOSTON ROAD      0104 
+X54411High School for Contemporary Arts                           800 EAST GUN HILL ROAD0104 
+X54511Bronx Aerospace High School                                 800 EAST GUN HILL ROAD0104 
+X54610Bronx Theatre High School                                   99 TERRACE VIEW AVENUE0104 
+X54707New Explorers High School                                   730 CONCOURSE VILLAGE 0104 
+X54807Urban Assembly School for Careers in Sports                 730 CONCOURSE VILLAGE 0104 
+X54910Discovery High School                                       2780 RESERVOIR AVENUE 0104 
+X55012High School of World Cultures                               1300 BOYNTON AVENUE   0104 
+X55107The Urban Assembly Bronx Academy of Letters                 339 MORRIS AVENUE     0104 
+X55509Mount Eden Children's Academy                               1501 JEROME AVENUE    0101 
+X55611Bronx Park Middle School                                    2441 WALLACE AVENUE   0102 
+X55707Mott Haven Community High School                            455 SOUTHERN BLVD     0104 
+X55808Westchester Square Academy                                  3000 EAST TREMONT AVEN0104 
+X55908School for Tourism and Hospitality                          900 TINTON AVENUE     0104 
+X56108Bronx Compass High School                                   1980 LAFAYETTE AVENUE 0104 
+X56208Blueprint Middle School                                     1111 PUGSLEY AVENUE   0102 
+X56409Claremont International HS                                  240 EAST 172 STREET   0104 
+X56510High School for Energy and Technology                       2474 CROTONA AVENUE   0104 
+X56611Pelham Gardens Middle School                                2545 GUNTHER AVENUE   0102 
+X56711Linden Tree Elementary School                               1560 PURDY STREET     0101 
+X56809Young Women's Leadership School of the Bronx                1865 MORRIS AVENUE    0104 
+X60007Alfred E. Smith Career and Technical Education HS           333 EAST 151 STREET   0104 
+X66810Dewitt Clinton Campus YABC                                  100 WEST MOSHOLU PARKW0104 
+X67007Health Opportunities High School                            350 GERARD AVENUE     0104 
+X68212Fannie Lou Hamer Freedom High School                        1021 JENNINGS STREET  0104 
+X68412Wings Academy                                               1122 EAST 180 STREET  0104 
+X69112Bronx Little School                                         1827 ARCHER STREET    0101 
+X69212Monroe Academy for Visual Arts & Design                     1300 BOYNTON AVENUE   0104 
+X69579Passages Academy                                            560 BROOK AVENUE      0104 
+X69610High School of American Studies at Lehman College           2925 GOULDEN AVENUE   0104 
+X70707NYCEEC NYC Early Childhood Center 07                        DISTRICT 07           9903 
+X70808NYCEEC NYC Early Childhood Center 08                        DISTRICT 08           9903 
+X70909NYCEEC NYC Early Childhood Center 09                        DISTRICT 09           9903 
+X71010NYCEEC NYC Early Childhood Center 10                        DISTRICT 10           9903 
+X71111NYCEEC NYC Early Childhood Center 11                        DISTRICT 11           9903 
+X71212NYCEEC NYC Early Childhood Center 12                        DISTRICT 12           9903 
+X72197P.S. X721 - Stephen McSweeney School                        2697 WESTCHESTER AVENU0105 
+X72397P.S. 723                                                    3540 BIVONA STREET    0105 
+X75497J. M. Rapport School Career Development                     470 JACKSON AVENUE    0105 
+X81197P.S. X811                                                   1434 LONGFELLOW AVENUE0105 
+XP0707District 07 Pre-K Center                                    535 UNION AVENUE      0101 
+XP0909District 09 Pre-K Center                                    1434 OGDEN AVENUE     0101 
+XP1010District 10 Pre-K Center                                    2512 MARION AVENUE    0101 
+XP1111District 11 Pre-K Center                                    800 LYDIG AVENUE      0101 
